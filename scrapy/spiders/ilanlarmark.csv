@@ -1,0 +1,450 @@
+ilan no,Price,City,Town,Neighbourhood,Total Square of Meter,Number of room,Number of bathroom,Age of Structure,Number of floors,Heating,Credi Accepting
+304116,64750000,Antalya,Alanya,Büyükhasbahçe Mah.,700,8+2,3,16-20 Arası,3,Klima,Evet
+300660,13000000.0,İstanbul,Silivri,Kavaklı Mah.,200,3+1,3,5-10 Arası,2,Doğalgaz (Kombi),Evet
+300189,4875000.0,Kocaeli,Kartepe,Sarımeşe Mah.,140,3+1,1,İnşaat Halinde,2,Yerden Isıtma,Evet
+300960,3900000.0,Bolu,Merkez,Karacasu Fatih Mah.,75,2+1,2,5-10 Arası,4,Doğalgaz (Kombi),Evet
+302596,12740000.0,Bilecik,Merkez,Gülümbe Köyü,276,6+1,3,Sıfır,2,Yerden Isıtma,Evet
+304081,26000000.0,İstanbul,Başakşehir,Bahçeşehir 1. Kısım Mah.,290,6+2,3,26-30 Arası,3,Merkezi Sistem,Evet
+300656,15000000,İzmir,Gaziemir,Irmak Mah.,194,3+2,2,2,4,Yerden Isıtma,Evet
+303661,32500000.0,Giresun,Dereli,,179,7+2,3,Sıfır,2,Yok,Bilinmiyor
+303509,5250000,İstanbul,Küçükçekmece,İstasyon Mah.,85,2+1,1,16-20 Arası,12,Doğalgaz (Kombi),Evet
+303319,4500000,Sakarya,Hendek,Çamlıca Mah.,126,2+1,1,5-10 Arası,2,Doğalgaz (Kombi),Bilinmiyor
+302554,30000000,İstanbul,Bakırköy,Yeşilyurt Mah.,250,4+1,3,5-10 Arası,5,Doğalgaz (Kombi),Evet
+293943,1985000,İstanbul,Sancaktepe,Abdurrahmangazi Mah.,120,2+1,1,5-10 Arası,4,Doğalgaz (Kombi),Evet
+296377,12900000,Bursa,Osmangazi,Çekirge Mah.,260,4+1,2,21-25 Arası,1,Isı Pompası,Evet
+296228,11375000.0,İzmir,Bayraklı,Gümüşpala Mah.,98,3+1,2,5-10 Arası,6,Doğalgaz (Kombi),Evet
+292032,30000000,İstanbul,Çatalca,Çakıl Mah.,2400,6+1,2,11-15 Arası,3,Doğalgaz (Kombi),Hayır
+296890,6175000.0,İstanbul,Beylikdüzü,Marmara Mah.,165,3+1,2,5-10 Arası,10,Doğalgaz (Kombi),Evet
+299234,2250000,İstanbul,Sancaktepe,Emek Mah.,156,3+1,2,5-10 Arası,5,Doğalgaz (Kombi),Evet
+292048,4050000,İstanbul,Ataşehir,Örnek Mah.,120,2+2,2,5-10 Arası,2,Doğalgaz (Kombi),Evet
+297593,195000000.0,İstanbul,,,3687,3+1,,5-10 Arası,18,Merkezi Sistem,Evet
+291873,47125000.0,Ankara,Gölbaşı,İncek Mah.,570,6+1,5,1 Yaşından Küçük,2,Doğalgaz (Kombi),Evet
+300431,14000000,İstanbul,Üsküdar,Bahçelievler Mah.,120,3+1,3,3,1,Yerden Isıtma,Evet
+287101,24600000,İzmir,Foça,Kazım Dirik Mah.,200,4+1,3,İnşaat Halinde,1,Klima,Hayır
+299589,4100000,İstanbul,Sultangazi,Yunus Emre Mah.,90,2+1,1,Sıfır,5,Doğalgaz (Kombi),Bilinmiyor
+300000,23887500.0,Sakarya,Sapanca,Güldibi Mah.,360,5+1,Boş,6,2,,0
+277502,4900000,Aydın,Didim,Akbük Mah.,130,3+1,2,5-10 Arası,2,Klima,Evet
+278853,21000000,Aydın,Didim,Akbük Mah.,240,4+1,4,2,2,Klima,Bilinmiyor
+291324,35750000.0,Kocaeli,Karamürsel,Çamçukur Mah.,1000,10 ve üzeri,8,21-25 Arası,4,Doğalgaz (Kombi),Bilinmiyor
+288043,10850000,Aksaray,Merkez,Yunus Emre Mah.,200,5+1,,1 Yaşından Küçük,2,Yerden Isıtma,Evet
+290522,6000000,İstanbul,Kadıköy,Rasimpaşa Mah.,75,2+1,1,30+,4,Doğalgaz (Kombi),Evet
+290876,5250000,İzmir,Karşıyaka,Tuna Mah.,102,3+1,2,5-10 Arası,4,Doğalgaz (Kombi),Evet
+290353,21937500.0,İstanbul,Sarıyer,Merkez Mah.,235,5+2,3,30+,3,Doğalgaz (Kombi),Evet
+290910,27000000,Trabzon,Yomra,Kayabaşı Mah.,400,5+1,3,1,3,Doğalgaz (Kombi),Evet
+287835,2500000,Aydın,Didim,Akbük Mah.,60,1+1,1,2,2,Klima,Evet
+287000,9750000.0,Ankara,Yenimahalle,Kardelen Mah.,170,4+1,2,11-15 Arası,20,Doğalgaz (Kombi),Bilinmiyor
+282346,16800000,Antalya,Demre,Karabucak Mah.,305,3+2,4,2,3,Klima,Evet
+290604,22425000.0,Trabzon,Ortahisar,Pelitli Mah.,,10 ve üzeri,,1 Yaşından Küçük,6,Doğalgaz (Kombi),Evet
+285318,6000000,İstanbul,Pendik,Güllü Bağlar Mah.,200,4+1,2,5-10 Arası,10,Merkezi Sistem,Evet
+292981,2700000,İzmir,Çiğli,Yeni Mahalle Mah.,120,3+1,2,Sıfır,3,Doğalgaz (Kombi),Bilinmiyor
+283525,10000000,Sakarya,Sapanca,Kurtköy Fatih Mah.,300,4+1,3,1 Yaşından Küçük,2,Yerden Isıtma,Evet
+283903,7000000,Balıkesir,Edremit,Akçay Mah.,237,4+1,2,11-15 Arası,3,Klima,Evet
+283118,5500000,İstanbul,Üsküdar,Zeynep Kamil Mah.,85,2+1,1,21-25 Arası,5,Yerden Isıtma,Evet
+287445,2450000,İstanbul,Esenyurt,Mehterçeşme Mah.,125,2+1,1,5-10 Arası,20,Doğalgaz (Kombi),Evet
+277333,21000000,Aydın,Didim,Akbük Mah.,150,4+1,3,Sıfır,2,Klima,Evet
+283241,5200000.0,İstanbul,Ümraniye,Çamlık Mah.,70,2+1,2,5-10 Arası,14,Doğalgaz (Kombi),Evet
+275645,22750000,Aydın,Didim,Akbük Mah.,280,4+1,4,2,3,Klima,Evet
+282009,26000000,Bursa,Nilüfer,19 Mayıs Mah.,340,5+2,3,1 Yaşından Küçük,2,Doğalgaz (Kombi),Evet
+286054,11000000,Tekirdağ,Süleymanpaşa,Barbaros Mah.,350,4+1,3,26-30 Arası,3,Doğalgaz (Kombi),Hayır
+277504,14000000,Aydın,Didim,Akbük Mah.,280,4+1,3,5-10 Arası,2,Klima,Evet
+278868,5750000,Aydın,Didim,Akbük Mah.,85,3+1,1,1 Yaşından Küçük,2,Klima,Evet
+275179,13812500.0,Muğla,Milas,Boğaziçi Mah.,170,4+2,3,3,3,Doğalgaz (Kombi),Evet
+275309,33250000,Muğla,Bodrum,Gümüşlük Mah.,,5+1,,Evet,2,,Boş
+278080,35750000.0,İstanbul,Büyükçekmece,Celaliye Mah.,368,7+1,3,İnşaat Halinde,3,Doğalgaz (Kombi),Evet
+276288,6450000,Bursa,Osmangazi,Geçit Mah.,250,4+1,3,5-10 Arası,5,Doğalgaz (Kombi),Evet
+280206,11375000.0,İstanbul,Beylikdüzü,Adnan Kahveci Mah.,190,4+2,2,1 Yaşından Küçük,7,Doğalgaz (Kombi),
+282061,2600000,Antalya,Kepez,Varsak Karşıyaka Mah.,117,3+1,2,11-15 Arası,3,Klima,Evet
+278825,14625000.0,Ankara,Sincan,Menderes Mah.,500,10 ve üzeri,,1 Yaşından Küçük,3,Doğalgaz (Kombi),Evet
+267917,4200000,Antalya,Kepez,Kültür Mah.,90,2+1,1,11-15 Arası,3,Klima,Evet
+268045,8300000,Antalya,Kumluca,Mavikent Mah.,244,6+1,3,5-10 Arası,3,Klima,Evet
+274994,6000000,Antalya,Muratpaşa,Meltem Mah.,140,3+1,1,26-30 Arası,12,Doğalgaz (Kombi),Evet
+274595,5600000,İstanbul,Şişli,Mecidiyeköy Mah.,118,3+1,2,30+,5,Doğalgaz (Kombi),Evet
+269475,3150000,İstanbul,Pendik,Çınardere Mah.,68,2+1,1,5-10 Arası,4,Doğalgaz (Kombi),Evet
+274597,16000000,İstanbul,Beylikdüzü,Gürpınar Mah.,250,5+1,2,21-25 Arası,4,Doğalgaz (Kombi),Evet
+269644,8347500,İstanbul,Şile,Balibey Mah.,120,3+1,2,3,2,Yerden Isıtma,Evet
+271413,9200000,Çanakkale,Ezine,Karadağ Köyü,190,4+1,4,Sıfır,2,Isı Pompası,Evet
+271748,4300000,İstanbul,Çatalca,Çakıl Mah.,102,2+1,1,1 Yaşından Küçük,1,Yok,Hayır
+271336,4550.0,İzmir,Torbalı,Ertuğrul Mah.,199,3+1,2,5-10 Arası,5,Doğalgaz (Kombi),Evet
+280700,6250000,Mersin,Erdemli,Kargıpınarı Mah.,150,3+1,2,16-20 Arası,2,Klima,Evet
+269126,8937500.0,İstanbul,Şişli,Bozkurt Mah.,95,2+1,1,26-30 Arası,1,Doğalgaz (Kombi),Evet
+269759,780000.0,Antalya,Manavgat,Düzağaç Mah.,55.54,1+1,,30+,2,Yok,Hayır
+273211,24700000.0,Balıkesir,Marmara,Avşa Mah.,400,10 ve üzeri,6,5-10 Arası,1,Klima,Bilinmiyor
+258839,11000000,İstanbul,Beşiktaş,Yıldız Mah.,110 m2,2+1,2,5-10 Arası,5,Doğalgaz (Kombi),Evet
+273646,7000000,İstanbul,Fatih,Haseki Sultan Mah.,165,5+1,2,26-30 Arası,4,Doğalgaz (Kombi),Evet
+259763,6000000,İstanbul,Zeytinburnu,Yenidoğan Mah.,75,2+1,1,30+,5,Soba,Evet
+262262,4875000.0,İstanbul,Ümraniye,Armağan Evler Mah.,85,2+1,2,4,5,Doğalgaz (Kombi),Evet
+259765,7000000,Antalya,Alanya,Cikcilli Mah.,125,2+1,2,11-15 Arası,3,Klima,Evet
+263141,5000000,Bursa,İznik,Dereköy Mah.,105,2+1,1,2,2,Klima,Bilinmiyor
+267495,3600000,Bursa,Gürsu,Kurtuluş Mah.,240,4+1,2,5-10 Arası,4,Doğalgaz (Kombi),Evet
+263157,6500000,İzmir,Karaburun,Mordoğan Mah.,121,4+1,2,Sıfır,3,Klima,Evet
+264491,8125000.0,Yalova,Armutlu,Karşıyaka Mah.,165,3+1,2,Sıfır,6,Doğalgaz (Kombi),Bilinmiyor
+266119,19500000,Ordu,Perşembe,Tarlacık Mah.,400,6+3,4,İnşaat Halinde,3,Yerden Isıtma,Evet
+258903,4387500.0,Ankara,Keçiören,19 Mayıs Mah.,260,6+2,2,16-20 Arası,2,Doğalgaz (Kombi),Evet
+254541,5200000.0,İstanbul,Başakşehir,Güvercintepe Mah.,200,5+2,2,5-10 Arası,5,Doğalgaz (Kombi),
+254785,2762500.0,Trabzon,Ortahisar,Üniversite Mah.,75,2+1,Hayır,Boş,6,Hayır,Var
+264476,9262500.0,İstanbul,Kadıköy,Caferağa Mah.,123,3+1,1,30+,6,Merkezi Sistem,Evet
+255636,2100000,Mersin,Yenişehir,Çiftlikköy Mah.,,3+1,1,26-30 Arası,9,Doğalgaz (Kombi),Evet
+254739,81250000.0,İstanbul,Şişli,Harbiye Mah.,120,10+,8,30+,5,Doğalgaz (Kombi),Evet
+255864,22262500.0,Trabzon,Ortahisar,1 Nolu Bostancı Mah.,250,4+1,3,Sıfır,2,Yerden Isıtma,Hayır
+254783,15925000.0,İstanbul,Başakşehir,Bahçeşehir 2. Kısım Mah.,180,4+1,2,3,17,Merkezi Sistem,Bilinmiyor
+255459,43750000,Muğla,Bodrum,Gündoğan Mah.,280,5+1,4,,,,
+257448,4875000.0,Mersin,Silifke,Yeşilovacık Mah.,170,4+1,2,16-20 Arası,,Klima,Hayır
+258469,7308000.0,Adana,Çukurova,Yurt Mah.,245,4+1,1,16-20 Arası,12,Doğalgaz (Kombi),Evet
+258099,8125000.0,İstanbul,Pendik,Çınardere Mah.,75,2+1,1,4,10,Merkezi Sistem,Evet
+253755,35750000.0,İzmir,Çeşme,Reisdere Mah.,180,5+1,3,2,2,Isı Pompası,Evet
+257064,60152625.0,İstanbul,Arnavutköy,,450,7+2,7,Sıfır,4,VRV,Evet
+258891,10500000,İstanbul,Kartal,Cumhuriyet Mah.,200,5+3,3,5-10 Arası,5,Doğalgaz (Kombi),Evet
+250518,29250000.0,Sakarya,Sapanca,Nailiye Mah.,200,4+1,4,Sıfır,2,Doğalgaz (Kombi),Evet
+258136,13300000,Antalya,Muratpaşa,Bahçelievler Mah.,105,2+1,1,30+,5,Klima,Evet
+252080,30450000,İzmir,Güzelbahçe,Çamlı Mah.,350,4+1,3,11-15 Arası,2,Isı Pompası,Evet
+252449,4700000,Bursa,,,260,4+1,Evet,Var,3,3,Doğalgaz (Kombi)
+252065,3578575.0,İstanbul,Arnavutköy,Taşoluk Mah.,85,2+1,2,Sıfır,2,Doğalgaz (Kombi),Evet
+253549,8750000,Antalya,Alanya,Mahmutlar Mah.,170,3+1,2,3,13,Klima,Evet
+253252,2250000,Bursa,Nilüfer,Dumlupınar Mah.,45,1+1,1,5-10 Arası,4,Doğalgaz (Kombi),Evet
+253356,2700000,Muğla,Ortaca,Beşköprü Mah.,95,2+1,3,Yok,4,Hayır,Hayır
+252077,26000000,Bursa,Nilüfer,19 Mayıs Mah.,335,5+2,2,Sıfır,3,Yerden Isıtma,Evet
+244656,19500000.0,Sakarya,Kaynarca,Turnalı Mah.,175,3+1,2,3,2,Doğalgaz (Kombi),Bilinmiyor
+250803,19356837.5,İstanbul,Arnavutköy,Karaburun Mah.,240,4+2,4,Sıfır,4,Doğalgaz (Kombi),Evet
+250621,4712500.0,İstanbul,Küçükçekmece,Cumhuriyet Mah.,300,5+2,2,16-20 Arası,7,Doğalgaz (Kombi),
+245790,7200000,İstanbul,Kağıthane,Hamidiye Mah.,105,3+1,1,21-25 Arası,10,Merkezi Sistem,Evet
+247041,21500000,İstanbul,Büyükçekmece,Sinanoba Mah.,220,4+1,2,11-15 Arası,5,Doğalgaz (Kombi),
+250898,6125000,Antalya,Alanya,Gözübüyük Mah.,99,4+1,2,2,2,Klima,Bilinmiyor
+247039,10000000,Tekirdağ,Çorlu,Nusratiye Mah.,165,3+1,2,1 Yaşından Küçük,2,Doğalgaz (Kombi),Evet
+249236,77000000,Antalya,Konyaaltı,Bahtılı Mah.,500,7+1,7,11-15 Arası,,Isı Pompası,Evet
+271045,6250000,İstanbul,Bahçelievler,Şirinevler Mah.,160,3+2,2,1 Yaşından Küçük,5,Doğalgaz (Kombi),Evet
+247889,7800000,İzmir,Narlıdere,2. İnönü Mah.,155,3+1,2,11-15 Arası,9,Doğalgaz (Kombi),Evet
+249697,3575000.0,İstanbul,Esenyurt,Hürriyet Mah.,160,2+2,2,5-10 Arası,6,Doğalgaz (Kombi),Evet
+249750,10000000,Muğla,Fethiye,Foça Mah.,160,4+1,3,1,3,Klima,Evet
+249695,2500000,Sakarya,Sapanca,Göl Mah.,120,3+1,2,16-20 Arası,4,Doğalgaz (Kombi),Evet
+242016,20800000.0,Bursa,Nilüfer,Gümüştepe Mah.,280,5+1,,Sıfır,4,,Evet
+251813,10833322.5,İstanbul,Arnavutköy,Karaburun Mah.,200,5+1,4,16-20 Arası,3,Doğalgaz (Kombi),
+241664,58500000.0,İstanbul,Çatalca,,350,10+2,,,,,
+241974,4062500.0,Kütahya,Simav,Ahlatlıçeşme Köyü,65,1+1,1,1,5,Jeotermal,Evet
+240978,4000000,İstanbul,Beylikdüzü,,,,,,,,
+245166,19500.0,Sakarya,Hendek,Karadere Mah.,200,5+1,5,1,2,Jeotermal,Evet
+241652,29000000,İstanbul,Silivri,Selimpaşa Merkez Mah.,,6+1,,,2,,
+242816,29250000.0,İstanbul,Büyükçekmece,Türkoba Mah.,380,5+1,4,11-15 Arası,3,,
+233210,13487500.0,İstanbul,Kadıköy,,120,2+2,2,5-10 Arası,4,Doğalgaz (Kombi),Evet
+242579,13000000,Mersin,Yenişehir,Fuatmorel Mah.,,,,,,,
+242431,11375000.0,İstanbul,Başakşehir,Güvercintepe Mah.,115,3+1,1,11-15 Arası,13,Doğalgaz (Kombi),Bilinmiyor
+235655,7150000.0,Rize,İyidere,Fıçıtaşı Mah.,145,3+1,2,1 Yaşından Küçük,9,Doğalgaz (Kombi),Evet
+242808,7500000,İstanbul,Başakşehir,,150,3+1,,1 Yaşından Küçük,,,
+243300,7800000.0,Bursa,Nilüfer,Karaman Mah.,115,3+1,2,3,14,Yerden Isıtma,Evet
+235800,2400000,İstanbul,Beylikdüzü,Adnan Kahveci Mah.,85,2+1,2,1 Yaşından Küçük,4,Doğalgaz (Kombi),Evet
+239103,6175000.0,İstanbul,Büyükçekmece,Çakmaklı Mah.,98,2+1,1,,12,Doğalgaz (Kombi),Evet
+235413,10000000,Antalya,Kepez,Odabaşı Mah.,200,4+1,3,Sıfır,2,Klima,Evet
+246795,40625000.0,İstanbul,Başakşehir,Bahçeşehir 1. Kısım Mah.,550,7+2,6,5-10 Arası,3,Doğalgaz (Kombi),Evet
+236810,20000000,Muğla,Bodrum,Yalıkavak Mah.,150,3+1,2,,2,,
+239996,487500000.0,İstanbul,Beykoz,Anadolu Hisarı Mah.,,6+2,,,,,
+240258,2600000,İstanbul,Tuzla,Aydınlı Mah.,85,2+1,1 Yaşından Küçük,,12,Hayır,Hayır
+241033,29250000.0,İzmir,Çeşme,Ardıç Mah.,140,3+1,2,16-20 Arası,2,Klima,Hayır
+235789,48717500.0,Tekirdağ,Süleymanpaşa,Bahçelievler Mah.,300,4+1,3,1 Yaşından Küçük,3,Doğalgaz (Kombi),Evet
+240981,43875000.0,İstanbul,Silivri,Ortaköy Merkez Mah.,482,7+2,4,1 Yaşından Küçük,3,,
+230692,15000000,Nevşehir,Merkez,Nar Köyü,274,6+1,2,5-10 Arası,2,Doğalgaz (Kombi),Bilinmiyor
+244659,97500000.0,İstanbul,Silivri,Kurfallı Mah.,800,10+,8,11-15 Arası,3,Doğalgaz (Kombi),Evet
+230886,5037500.0,Trabzon,Araklı,Merkez Mah.,115,3+1,1,5-10 Arası,6,Doğalgaz (Kombi),Evet
+229590,8450000.0,İstanbul,Beyoğlu,Sütlüce Mah.,15,220,,,,,Evet
+232072,20500000,İstanbul,Şile,Kumbaba Mah.,211,6+1,2,26-30 Arası,3,Doğalgaz (Kombi),Evet
+232487,5525000.0,Çanakkale,Gelibolu,Gazisüleymanpaşa Mah.,240,5+1,4,5-10 Arası,1,Merkezi Sistem,Evet
+232073,21250000,İstanbul,Üsküdar,Bahçelievler Mah.,137,5+1,3,3,6,Yerden Isıtma,Evet
+229662,7850000,Antalya,Alanya,Güller Pınarı Mah.,160,3+1,2,11-15 Arası,5,,
+232905,6050000,İzmir,Bayraklı,Yamanlar Mah.,145,3+1,2,1,7,Merkezi Sistem,Evet
+223955,9900000,İstanbul,Beşiktaş,Etiler Mah.,110,3+1,1,30+,9,Merkezi Sistem,Hayır
+224683,130000000,İstanbul,Çatalca,İnceğiz Mah.,10.000,8+1,4,4,2,Doğalgaz (Kombi),Hayır
+239048,13300000,Bursa,Mudanya,,280,4+2,4,11-15 Arası,4,Doğalgaz (Kombi),Evet
+242810,43875000.0,İstanbul,Büyükçekmece,Türkoba Mah.,950,9+2,6,,3,,
+227870,16250000,İzmir,Karşıyaka,Mavişehir Mah.,166,4+1,2,21-25 Arası,20,Merkezi Sistem,Evet
+226650,9129250.0,Balıkesir,Edremit,Tahtakuşlar Mah.,180,4+1,2,16-20 Arası,3,Klima,Evet
+232684,9650000,İstanbul,Beyoğlu,Sütlüce Mah.,147,3+1,3,1 Yaşından Küçük,6,Doğalgaz (Kombi),Evet
+228708,6800000,İstanbul,Beyoğlu,Tomtom Mah.,50,1+1,1,21-25 Arası,5,Doğalgaz (Kombi),Evet
+226762,25550000,Sakarya,Arifiye,Cumhuriyet Mah.,7.568,5+1,2,16-20 Arası,3,Doğalgaz (Kombi),Evet
+227984,243750000.0,İstanbul,Sarıyer,Kumköy Mah.,700,7+2,5,2,4,Yerden Isıtma,Evet
+229125,13000000,Aydın,Kuşadası,Yaylaköy Mah.,517,7+2,4,1,3,Isı Pompası,
+229319,9500000,İstanbul,Kadıköy,Göztepe Mah.,70,2+1,2,4,1,Doğalgaz (Kombi),Evet
+223206,13000000.0,İstanbul,Kağıthane,Yahyakemal Mah.,85,2+1,2,Sıfır,7,Merkezi Sistem,Evet
+229264,7000000,İstanbul,Ataşehir,İçerenköy Mah.,130,3+1,2,5-10 Arası,8,Doğalgaz (Kombi),Evet
+217526,8500000,Muğla,Dalaman,Şerefler Mah.,180,3+1,3,Sıfır,2,Klima,Evet
+233845,2000000,Ordu,Ünye,Keş Mah.,180,3+1,2,11-15 Arası,5,Yok,Evet
+226608,1275000,Erzurum,Palandöken,Hüseyin Avni Ulaş Mah.,170,3+1,1,11-15 Arası,1,Doğalgaz (Kombi),Evet
+224927,7500000,Aydın,,,250,6+1,2,5-10 Arası,1,Merkezi Sistem,Evet
+219330,25000000,Ankara,Çankaya,Ümit Mah.,200,5+2,4,5-10 Arası,6,Merkezi Sistem,Evet
+218941,12000000,Samsun,Atakum,Alanlı Mah.,515,5+2,4,1 Yaşından Küçük,3,Yerden Isıtma,
+218261,9750000.0,İstanbul,Avcılar,Gümüşpala Mah.,230,4+2,3,5-10 Arası,5,Doğalgaz (Kombi),Evet
+221829,5750000,Mersin,Mezitli,Merkez Mah.,159,4+1,2,5-10 Arası,14,Merkezi Sistem,Evet
+227520,5900000,İstanbul,Büyükçekmece,Mimaroba Mah.,180,4+1,2,5-10 Arası,2,Doğalgaz (Kombi),Evet
+221349,8937500.0,Muğla,Bodrum,Turgutreis Mah.,70,2+1,1,16-20 Arası,3,Klima,Bilinmiyor
+221911,35000000,İstanbul,Büyükçekmece,Mimarsinan Mah.,550,6+2,2,1,1,Doğalgaz (Kombi),Evet
+218357,13000000,İzmir,Urla,Altıntaş Mah.,200,6+1,2,5-10 Arası,3,Doğalgaz (Kombi),Evet
+222902,23367500.0,İzmir,Konak,Murat Reis Mah.,213,5+1,2,5-10 Arası,7,Merkezi Sistem,Evet
+222190,3802500.0,İstanbul,Kadıköy,Caferağa Mah.,45,1+1,1,30+,4,Doğalgaz (Kombi),Bilinmiyor
+211889,4062500.0,Sakarya,Sapanca,Güldibi Mah.,135,3+1,2,1 Yaşından Küçük,4,Yerden Isıtma,Bilinmiyor
+213020,17062500.0,Tekirdağ,Marmaraereğlisi,Yeniçiftlik Mah.,400,5+3,3,21-25 Arası,4,Merkezi Sistem,Evet
+214558,16500000,İstanbul,Bağcılar,Çınar Mah.,90,2+1,5,1 Yaşından Küçük,4,Doğalgaz (Kombi),Evet
+215825,4000000,Muğla,Milas,Göldere Mah.,120,3+1,2,3,1,Yerden Isıtma,Bilinmiyor
+215351,3710000,İstanbul,Üsküdar,Ahmediye Mah.,70,1+1,1,30+,5,Doğalgaz (Kombi),Bilinmiyor
+217063,34500000,İstanbul,Şile,İmrendere Mah.,330,5+1,2,11-15 Arası,3,Yerden Isıtma,Evet
+217286,29250000.0,İstanbul,Beşiktaş,Gayrettepe Mah.,210,5+1,3,21-25 Arası,6,Doğalgaz (Kombi),Evet
+211887,6700000,İstanbul,Fatih,Topkapı Mah.,70,2+1,Evet,Hayır,4,Evet,1
+212128,6500000,İstanbul,Ümraniye,Tatlısu Mah.,70,2+1,1,1 Yaşından Küçük,16,Yerden Isıtma,Evet
+216247,19900000,İstanbul,Büyükçekmece,Bahçelievler Mah.,240,5+1,4,2,3,Doğalgaz (Kombi),Evet
+205679,4200000,İstanbul,Beylikdüzü,Adnan Kahveci Mah.,110,2+1,1,11-15 Arası,11,Doğalgaz (Kombi),Evet
+215210,1875000,Bursa,Nilüfer,Akçalar Mah.,141,3+1,2,5-10 Arası,4,Doğalgaz (Kombi),Bilinmiyor
+206278,4150000,Bursa,İznik,Elbeyli Mah.,975,3+1,2,21-25 Arası,3,Soba,Evet
+216651,8932000.0,Turkish Controlled Area,,,135,3+1,3,İnşaat Halinde,1,Yok,
+207327,18750000,Balıkesir,Ayvalık,Namık Kemal Mah.,,7+1,5,Sıfır,3,Yerden Isıtma,Evet
+208165,1500000,Sakarya,Adapazarı,Korucuk Mah.,145,3+1,2,5-10 Arası,4,Doğalgaz (Kombi),Evet
+207173,1050000,Yalova,Çınarcık,Hürriyet Mah.,120,,1,21-25 Arası,1,Doğalgaz (Kombi),Evet
+208415,13000000.0,İstanbul,Beylikdüzü,Adnan Kahveci Mah.,165,3+1,2,11-15 Arası,13,Doğalgaz (Kombi),Evet
+206484,1875000,İstanbul,Ataşehir,Kayışdağı Mah.,90,2+1,1,5-10 Arası,4,Doğalgaz (Kombi),Evet
+211066,25900000,İstanbul,Fatih,Balat Mah.,300,5+2,2,30+,5,Doğalgaz (Kombi),
+211594,16250000.0,Ankara,Ayaş,Şeyhmuhittin Mah.,250,4+1,4,1 Yaşından Küçük,2,Doğalgaz (Kombi),Evet
+206059,16500000,İstanbul,Bakırköy,Yeşilköy Mah.,160,4+2,3,1 Yaşından Küçük,4,Doğalgaz (Kombi),Evet
+219616,8450000.0,İstanbul,Ümraniye,Armağan Evler Mah.,150,4+1,1,11-15 Arası,5,Doğalgaz (Kombi),Evet
+191316,4200000,İstanbul,Avcılar,Üniversite Mah.,115,3+1,2,Sıfır,8,Doğalgaz (Kombi),Evet
+205260,65000000.0,İstanbul,Beykoz,Anadolu Hisarı Mah.,290,4+2,3,4,3,,Evet
+202773,3900000.0,Aydın,Kuşadası,Türkmen Mah.,80,2+1,1,5-10 Arası,4,Klima,Evet
+198795,5990000,Antalya,Kaş,Palamut Mah.,135,3+1,2,1 Yaşından Küçük,2,Klima,Hayır
+198922,60000000,Bolu,Mudurnu,Merkez Mah.,1140,10+,8,30+,3,Soba,Evet
+203745,5250000,İstanbul,Fatih,Topkapı Mah.,80,2+1,1,30+,4,Doğalgaz (Kombi),Evet
+204485,22750000.0,Amasya,,,550,6+2,4,4,4,Yerden Isıtma,Evet
+193539,5180000,Aksaray,Merkez,Hamidiye Mah.,135,3+1,1,30+,5,Doğalgaz (Kombi),Evet
+207768,1250000,İstanbul,Esenler,,110,3+1,2,1 Yaşından Küçük,6,Merkezi Sistem,Evet
+211663,3250000,İstanbul,Fatih,Dervişali Mah.,55,2+1,1,1 Yaşından Küçük,3,Doğalgaz (Kombi),Evet
+188387,980000000,İstanbul,Üsküdar,Beylerbeyi Mah.,1080,10+,7,,4,Doğalgaz (Kombi),
+203930,19500000.0,Kocaeli,Darıca,Bayramoğlu Mah.,430,7+2,4,26-30 Arası,4,Doğalgaz (Kombi),Evet
+188719,35750000.0,İstanbul,Sarıyer,Yeni Mah.,200,5+1,2,11-15 Arası,3,Doğalgaz (Kombi),Evet
+189366,11999000,Kocaeli,Karamürsel,Tepeköy Mah.,500,6+2,3,21-25 Arası,3,Merkezi Sistem,Evet
+204852,645000,Balıkesir,Bandırma,Çınarlı Mah.,160,2+1,1,26-30 Arası,2,Doğalgaz (Kombi),Evet
+187819,4025000,Antalya,Aksu,Altıntaş Mah.,55,1+1,,Sıfır,13,Yerden Isıtma,Evet
+189712,16380000,Antalya,Alanya,,,3+1,,Sıfır,,,
+203013,3950000,İzmir,Selçuk,Çamlık Mah.,280,10+2,4,2,3,Merkezi Sistem,Evet
+190732,3750000,İstanbul,Esenyurt,Namık Kemal Mah.,150,3+1,2,Sıfır,25,Merkezi Sistem,Evet
+190739,3575000.0,İstanbul,Kağıthane,Seyrantepe Mah.,45,1+1,1,4,,Doğalgaz (Kombi),Evet
+190984,4500000,İstanbul,Üsküdar,Selamiali Mah.,140,2+1,2,30+,4,Doğalgaz (Kombi),Evet
+191946,8500000,Bursa,Mudanya,Yeni Mah.,275,5+2,3,3,4,Yerden Isıtma,Evet
+191184,65000000.0,İstanbul,Şile,Çavuş Mah.,450,7+2,7,İnşaat Halinde,3,Yerden Isıtma,Hayır
+192129,10000000,İzmir,Urla,Güvendik Mah.,140,5+2,2,21-25 Arası,2,Doğalgaz (Kombi),Evet
+183070,2500000,Balıkesir,Erdek,Doğanlar Mah.,725,3+1,,Evet,1,Var,Boş
+181512,22750000.0,Kocaeli,Gebze,Osman Yılmaz Mah.,234,3+1,,16-20 Arası,5,Doğalgaz (Kombi),Hayır
+183429,60125000.0,İstanbul,Beşiktaş,Sinanpaşa Mah.,780,10 ve üzeri,3,4,3,Doğalgaz (Kombi),Evet
+190410,3705000.0,İstanbul,Bahçelievler,Siyavuşpaşa Mah.,120,3+1,1,21-25 Arası,6,Doğalgaz (Kombi),Evet
+185874,3680000,İstanbul,Bahçelievler,Siyavuşpaşa Mah.,130,3+1,Boş,2,5,2,
+182610,32500000.0,Sakarya,Serdivan,Esentepe Mah.,500,7+2,5,4,3,Yerden Isıtma,Hayır
+190604,5525000.0,İstanbul,Fatih,Yavuz Sultan Selim Mah.,240,4+2,2,30+,3,Doğalgaz (Kombi),Bilinmiyor
+187072,13900000,İstanbul,Büyükçekmece,Atatürk Mah.,175,4+1,3,2,4,Doğalgaz (Kombi),Evet
+181336,3000000,Antalya,Alanya,Avsallar Mah.,200,4+1,3,1 Yaşından Küçük,8,Doğalgaz (Kombi),Evet
+185118,22750000.0,Antalya,Döşemealtı,Nebiler Mah.,110,3+1,1,21-25 Arası,2,Yerden Isıtma,Evet
+184739,4490000,İstanbul,Sancaktepe,Osmangazi Mah.,110,3+1,2,5-10 Arası,9,Merkezi Sistem,Evet
+179171,32500000.0,İstanbul,Beyoğlu,Şahkulu Mah.,400,10+2,5,30+,5,Doğalgaz (Kombi),
+180176,2200000,İstanbul,Esenyurt,Zafer Mah.,42,1+1,1,2,30+,Merkezi Sistem,Evet
+182562,19500000.0,İstanbul,Sarıyer,Kumköy Mah.,180,4+1,3,5-10 Arası,4,Yerden Isıtma,Evet
+180161,3650000,İstanbul,Esenyurt,Zafer Mah.,80,2+1,2,2,30+,Merkezi Sistem,Evet
+180164,2000000,İstanbul,Beylikdüzü,Adnan Kahveci Mah.,85,2+1,1,5-10 Arası,6,Doğalgaz (Kombi),Evet
+187074,10200000,İstanbul,Kadıköy,Feneryolu Mah.,190,4+1,3,5-10 Arası,9,Doğalgaz (Kombi),Evet
+180157,4215000,İstanbul,Beylikdüzü,Adnan Kahveci Mah.,145,3+1,2,5-10 Arası,14,Doğalgaz (Kombi),Evet
+180224,25000000,İstanbul,Şişli,Mecidiyeköy Mah.,117,1+1,2,5-10 Arası,30+,Merkezi Sistem,Evet
+180155,1350000,İstanbul,Esenyurt,Akevler Mah.,65,1+1,1,5-10 Arası,30+,Merkezi Sistem,Evet
+176642,4062500.0,Bursa,Gemlik,Hisar Mah.,250,6+1,Doğalgaz (Kombi),Evet,5,Evet,Evet
+181152,2350000,Bursa,Nilüfer,Minareliçavuş Mah.,240,4+1,2,5-10 Arası,3,Doğalgaz (Kombi),Evet
+180159,1475000,İstanbul,Esenyurt,Zafer Mah.,42,1+1,1,2,30+,Merkezi Sistem,Evet
+169111,53625000.0,İstanbul,Üsküdar,Altunizade Mah.,600,10 ve üzeri,,26-30 Arası,4,Doğalgaz (Kombi),Evet
+170164,9750000.0,Bursa,Osmangazi,Demirtaş Cumhuriyet Mah.,160,3+1,5-10 Arası,,3,Hayır,Hayır
+170601,9912500.0,İstanbul,Adalar,Büyükada-nizam Mah.,120,3+1,1,21-25 Arası,3,Doğalgaz (Kombi),Evet
+187268,23880000,İstanbul,Sarıyer,Huzur Mah.,200,3+1,2,5-10 Arası,30+,Merkezi Sistem,Evet
+180153,1750000,İstanbul,Esenyurt,Zafer Mah.,45,1+1,1,2,30+,Merkezi Sistem,Evet
+172656,1797120,İstanbul,Avcılar,Cihangir Mah.,90,2+1,1,21-25 Arası,4,Doğalgaz (Kombi),Hayır
+181153,17875000.0,İstanbul,Büyükçekmece,Güzelce Mah.,190,5+1,4,11-15 Arası,4,Doğalgaz (Kombi),Evet
+173468,47125000.0,İstanbul,Küçükçekmece,Kanarya Mah.,,3+1,,,3,,
+170814,30875000.0,Yalova,Merkez,Merkez Mah.,185,9+1,10,Sıfır,3,Yerden Isıtma,Evet
+175304,5606250.0,Bursa,Mudanya,Güzelyalı Burgaz Mah.,160,3+2,2,11-15 Arası,3,Doğalgaz (Kombi),Evet
+150610,4550000,Balıkesir,Edremit,Altınoluk Mah.,45,1+1,1,5-10 Arası,2,Yok,Evet
+151065,2434250.0,Bursa,Karacabey,Drama Mah.,320,7+1,3,5-10 Arası,3,Doğalgaz (Kombi),Evet
+170388,6000000,Kocaeli,Başiskele,Damlar Mah.,305,5+2,3,İnşaat Halinde,2,Yerden Isıtma,Hayır
+173087,8400000,İstanbul,Beylikdüzü,,180,4+1,2,5-10 Arası,7,Merkezi Sistem,Hayır
+176480,8417500.0,Bursa,Nilüfer,Odunluk Mah.,125,3+1,1,5-10 Arası,3,Doğalgaz (Kombi),Evet
+153888,25000000,İstanbul,Beşiktaş,Arnavutköy Mah.,250,5+1,2,30+,3,Doğalgaz (Kombi),Evet
+154819,32500000.0,Trabzon,Beşikdüzü,,320,6+2,3,Sıfır,2,Merkezi Sistem,
+155890,17500000,Antalya,Alanya,Kargıcak Mah.,,4+1,3,4,1,Klima,Evet
+154594,4200000,Kocaeli,Başiskele,Damlar Mah.,200,4+1,3,Sıfır,2,Yerden Isıtma,Evet
+169393,6700000,İzmir,Urla,Atatürk Mah.,200,3+1,2,5-10 Arası,2,Doğalgaz (Kombi),Evet
+157466,2000000,Denizli,Pamukkale,Karahayıt Mah.,86,4+1,2,5-10 Arası,3,Merkezi Sistem,Evet
+157745,2600000,Bursa,İnegöl,Akhisar Mah.,320,2+1,1,3,3,Doğalgaz (Kombi),Evet
+130128,47125000.0,İstanbul,Büyükçekmece,Celaliye Mah.,850,8+2,10,16-20 Arası,3,Yerden Isıtma,Bilinmiyor
+131267,1072500.0,Kocaeli,İzmit,Karadenizliler Mah.,70,2+1,1,Sıfır,5,Doğalgaz (Kombi),Evet
+156367,4500000,İstanbul,Kartal,Kordonboyu Mah.,75,2+1,1,İnşaat Halinde,24,Merkezi Sistem,
+133194,7000000,Yalova,Merkez,Merkez Mah.,410,5+1,5,5-10 Arası,2,Yerden Isıtma,Evet
+175821,20000000,Antalya,Döşemealtı,Nebiler Mah.,400,4+1,3,5-10 Arası,2,Isı Pompası,Evet
+132752,2112500.0,Mersin,Erdemli,Kargıpınarı Mah.,95,1+1,Klima,Evet,11,Evet,Evet
+158181,5500000,İstanbul,Arnavutköy,Mustafa Kemal Paşa Mah.,650,6+2,3,2,2,Doğalgaz (Kombi),Evet
+136052,2275000.0,İstanbul,Beyoğlu,Sururi Mehmet Efendi Mah.,75,2+1,1,26-30 Arası,3,Doğalgaz (Kombi),Bilinmiyor
+131690,47125000.0,Muğla,Bodrum,Yalıkavak Mah.,160,4+1,4,1,2,Yerden Isıtma,
+136943,13800000,İstanbul,Kartal,Çavuşoğlu Mah.,860,10 ve üzeri,5,5-10 Arası,3,VRV,Evet
+134100,39650000.0,İstanbul,Üsküdar,Burhaniye Mah.,260,5+2,4,Sıfır,6,Yerden Isıtma,Evet
+124135,325000000.0,İstanbul,Zeytinburnu,Kazlıçeşme Mah.,860,10 ve üzeri,6+,1,16,VRV,Evet
+139595,32480000.0,Hatay,Arsuz,Pirinçlik Mah.,300,4+1,3,5-10 Arası,2,Merkezi Sistem,
+155657,2450000,Muğla,Fethiye,Yeni Mah.,155.5,3+2,2,16-20 Arası,3,Soba,Evet
+137839,16900000.0,İstanbul,Beşiktaş,Levazım Mah.,90,2+1,1,5-10 Arası,5,Doğalgaz (Kombi),Evet
+123870,6000000,Sakarya,Sapanca,Yavuzselim Mah.,230,4+1,5,1 Yaşından Küçük,2,Yerden Isıtma,Evet
+125190,7000000,İstanbul,Büyükçekmece,Atatürk Mah.,160,4+1,2,Sıfır,4,Doğalgaz (Kombi),Evet
+126541,4725000,Antalya,Alanya,Cikcilli Mah.,200,4+1,2,5-10 Arası,5,Klima,Evet
+126222,16250000.0,Antalya,Döşemealtı,,280,3+1,4,Sıfır,2,Doğalgaz (Kombi),Evet
+127603,325000000.0,İstanbul,Beşiktaş,Balmumcu Mah.,2577,10 ve üzeri,6+,1 Yaşından Küçük,5,,Evet
+128300,22750000,İzmir,Konak,Alsancak Mah.,270,5+1,2,30+,7,Merkezi Sistem,
+137571,5734365.0,Kocaeli,Darıca,Yalı Mah.,180,5+1,4,İnşaat Halinde,3,Doğalgaz (Kombi),Evet
+124228,700000,Trabzon,Ortahisar,,65,1+1,1,30+,2,Doğalgaz (Kombi),Bilinmiyor
+103295,6012500.0,İstanbul,Silivri,Cumhuriyet Mah.,180,4+2,2,1 Yaşından Küçük,3,Doğalgaz (Kombi),Bilinmiyor
+123916,35750000.0,İstanbul,Beykoz,Polonezköy Mah.,320,5+1,2,1 Yaşından Küçük,5,Doğalgaz (Kombi),Evet
+127798,82875000.0,Tekirdağ,Şarköy,Aşağıkalamış Mah.,550 m² villa kullanım alanı,5,4,5-10 Arası,3,Merkezi Sistem,Evet
+130326,1950000,Yalova,Merkez,Adnan Menderes Mah.,170,4+1,3,4,2,Doğalgaz (Kombi),Evet
+108263,13000000.0,İstanbul,Silivri,Kavaklı Mah.,190,3+1,3,4,2,Doğalgaz (Kombi),Evet
+107936,28600000.0,İstanbul,Üsküdar,Bulgurlu Mah.,96,1+1,1,1 Yaşından Küçük,30+,Merkezi Sistem,Evet
+107183,26000000.0,Düzce,Merkez,Şehit Murat Demir Mah.,290,5+2,2,5-10 Arası,2,Yerden Isıtma,Evet
+107834,11700000.0,Sakarya,Arifiye,Türkçaybaşı Mah.,176,5+1,3,4,2,Klima,Evet
+119416,40625000.0,İstanbul,Kadıköy,Acıbadem Mah.,350,6+2,3,5-10 Arası,4,Merkezi Sistem,Evet
+122281,2500000,Düzce,Merkez,Darıcı Mah.,200,4+2,3,Sıfır,2,Yerden Isıtma,Evet
+108730,4225000.0,Çanakkale,Gelibolu,Hoca Hamza Mah.,100,3+2,3,İnşaat Halinde,3,Yerden Isıtma,Evet
+122115,2300000,Tekirdağ,Marmaraereğlisi,Yeniçiftlik Mah.,210,5+1,3,4,3,Doğalgaz (Kombi),Evet
+129353,42000000,İstanbul,Zeytinburnu,Kazlıçeşme Mah.,160,3+1,3,1 Yaşından Küçük,11,Merkezi Sistem,Evet
+112603,990000,Trabzon,Akçaabat,Çolaklı Mah.,150,2+1,,30+,3,,
+78831,3250000.0,Sakarya,Kocaali,Alandere Mah.,165,3+1,3,Sıfır,3,Doğalgaz (Kombi),Evet
+63313,11700000.0,İstanbul,Esenyurt,Pınar Mah.,,,,,,,
+62687,58175000.0,İstanbul,Büyükçekmece,Atatürk Mah.,200,4+1,2,11-15 Arası,4,Doğalgaz (Kombi),Evet
+150225,6000000,İzmir,Foça,Yenibağarası Mah.,165,4+1,2,1 Yaşından Küçük,1,Yerden Isıtma,Evet
+110730,5950000,Antalya,Muratpaşa,Güzeloluk Mah.,145,3+1,1,11-15 Arası,11,Doğalgaz (Kombi),Hayır
+64150,2300000,Aydın,Kuşadası,Güzelçamlı Mah.,122,4+1,2,İnşaat Halinde,2,Yerden Isıtma,Bilinmiyor
+69556,1950000,Bolu,Merkez,Yeniköy Mah.,300,5+2,3,11-15 Arası,3,Merkezi Sistem,Evet
+70017,4225000.0,İstanbul,Kağıthane,Hamidiye Mah.,150,4+2,2,11-15 Arası,7,Doğalgaz (Kombi),Evet
+64264,9262500.0,İstanbul,Büyükçekmece,Celaliye Mah.,320,4+3,3,16-20 Arası,4,Doğalgaz (Kombi),Evet
+70974,11700000.0,Muğla,Fethiye,Patlangıç Mah.,,5+1,3,,4,Isı Pompası,Evet
+167767,65000000.0,Muğla,Köyceğiz,Toparlar Mah.,,,,,,,
+74490,10075000.0,Yalova,Çınarcık,Koru Köyü,168,4+1,2,Sıfır,2,Doğalgaz (Kombi),Evet
+71110,10000000,Antalya,Serik,Belek Mah.,190,4+1,2,11-15 Arası,2,Klima,Evet
+62313,14625000.0,İstanbul,Arnavutköy,Karaburun Mah.,337,8+4,4,26-30 Arası,4,Doğalgaz (Kombi),Evet
+48056,10150000,Antalya,Demre,Büyükkum Mah.,220,4+1,3,11-15 Arası,2,Klima,Evet
+71741,8190000.0,Mersin,Silifke,Göksu Mah.,210,4+1,2,5-10 Arası,6,Klima,Evet
+49415,1155000,Kocaeli,Derince,Çınarlı Mah.,183,3+2,2,5-10 Arası,3,Doğalgaz (Kombi),Evet
+47701,7475000.0,Sakarya,Serdivan,Beşköprü Mah.,250,5+1,3,11-15 Arası,4,Doğalgaz (Kombi),Evet
+45347,350000,Yalova,Armutlu,Karşıyaka Mah.,50,1+1,1,İnşaat Halinde,4,Doğalgaz (Kombi),Evet
+51935,9750000,Kocaeli,İzmit,Yassıbağ Mah.,308,4+2,3,11-15 Arası,3,Doğalgaz (Kombi),Evet
+47376,3380000.0,İstanbul,Bağcılar,Mahmutbey Mah.,,,,,,,
+61006,4500000,Mersin,Mezitli,Tece Mah.,240,4+1,2,5-10 Arası,3,Klima,Evet
+57060,108875000.0,İstanbul,Beşiktaş,Ortaköy Mah.,350,9+2,4,16-20 Arası,5,Doğalgaz (Kombi),Evet
+32690,12187500.0,İstanbul,Silivri,Kavaklı Mah.,200,3+1,3,3,2,Doğalgaz (Kombi),
+58331,23800000,Antalya,Muratpaşa,Selçuk Mah.,150,3+2,2,30+,2,Klima,Evet
+32688,3650000,İstanbul,Beylikdüzü,Cumhuriyet Mah.,150,3+1,2,5-10 Arası,1,Doğalgaz (Kombi),Hayır
+65351,32500000.0,İstanbul,Avcılar,Firuzköy Mah.,235,4+2,Var,Yok çünkü aile binası,3,21-25 Arası,Hayır
+31742,2000000,Manisa,Akhisar,Yenidoğan Mah.,420,3+1,2,1 Yaşından Küçük,2,Merkezi Sistem,Hayır
+34832,975000,Sakarya,Sapanca,Soğuksu Mah.,240,5+1,3,21-25 Arası,3,Doğalgaz (Kombi),Evet
+48781,1850000,Sakarya,Adapazarı,Poyrazlar Mah.,170,4+1,2,5-10 Arası,2,Merkezi Sistem,Bilinmiyor
+38184,3250000,Bursa,Yıldırım,Hamamlıkızık Mah.,180,9+3,3,11-15 Arası,3,Merkezi Sistem,Evet
+44037,2500000,Antalya,Alanya,Cikcilli Mah.,200,4+1,2,5-10 Arası,5,Klima,Evet
+42467,1200000,Trabzon,Akçaabat,Yıldızlı Mah.,230,4+1,2,5-10 Arası,6,Doğalgaz (Kombi),Evet
+36495,23400000.0,İstanbul,Ümraniye,Atakent Mah.,380,8+2,0,Evet,3,,Boş
+44597,1375000,İstanbul,Silivri,Gümüşyaka Merkez Mah.,185,4+1,3,11-15 Arası,3,Doğalgaz (Kombi),Evet
+44936,39000000.0,İstanbul,Üsküdar,Burhaniye Mah.,150,3+1,1,5-10 Arası,4,Doğalgaz (Kombi),Bilinmiyor
+31151,1500000,İzmir,Dikili,,,5+1,3,26-30 Arası,3,Soba,Evet
+34092,650000,Trabzon,Of,Sulaklı Mah.,240,3+1,2,,12,Doğalgaz (Kombi),
+30051,8125000.0,Antalya,Kemer,Merkez Mah.,,4+1,3,11-15 Arası,3,Klima,Hayır
+30178,24375000.0,İstanbul,Fatih,Şehremini Mah.,,8+3,3,5-10 Arası,3,Doğalgaz (Kombi),Evet
+60721,1100000,İstanbul,Beykoz,Ortaçeşme Mah.,251,4+1,1,30+,1,Soba,Bilinmiyor
+29922,2700000,İstanbul,Beyoğlu,,,5,5,30+,5,Doğalgaz (Kombi),Evet
+30690,4221750.0,Ankara,Yenimahalle,Turgut Özal Mah.,,5+1,3,5-10 Arası,13,Doğalgaz (Kombi),Evet
+30783,3000000,Balıkesir,Ayvalık,Gazi Kemal Paşa Mah.,,4+1,Hayır,Var,1,1,Klima
+30712,1100000,İstanbul,Şile,,,4+1,3,11-15 Arası,2,Doğalgaz (Kombi),Evet
+30121,36400000.0,İstanbul,Adalar,Büyükada-nizam Mah.,,4+2,4,11-15 Arası,3,Yerden Isıtma,Evet
+30844,52500000,Antalya,Muratpaşa,Şirinyalı Mah.,,5+1,4,4,7,Yerden Isıtma,Bilinmiyor
+30904,7475000.0,Kocaeli,Başiskele,,,5+2,3,11-15 Arası,4,Doğalgaz (Kombi),Evet
+61941,17875000.0,Antalya,Konyaaltı,Sarısu Mah.,400,6+1,2,5-10 Arası,3,Doğalgaz (Kombi),Evet
+28797,8125000.0,İstanbul,Beşiktaş,Bebek Mah.,,2+1,1,26-30 Arası,3,Merkezi Sistem,Evet
+30276,4000000,İstanbul,Bakırköy,Şenlikköy Mah.,,4+1,2,11-15 Arası,5,Doğalgaz (Kombi),Bilinmiyor
+28975,3975000,İstanbul,Beylikdüzü,Dereağzı Mah.,,10 ve üzeri,6,5-10 Arası,3,Doğalgaz (Kombi),Evet
+28956,4500000,İstanbul,Beşiktaş,Etiler Mah.,,4+1,2,30+,3,Doğalgaz (Kombi),Evet
+29193,4225000.0,Antalya,Manavgat,Çolaklı Mah.,,2+1,1,16-20 Arası,2,Klima,Evet
+28843,1899000,Antalya,Kaş,,,2+1,1,Sıfır,1,Klima,
+30168,4062500.0,İstanbul,Esenyurt,Akevler Mah.,,2+1,2,5-10 Arası,4,Merkezi Sistem,Evet
+29369,1200000,İstanbul,Beyoğlu,Çukur Mah.,,3+1,1,30+,5,Doğalgaz (Kombi),
+29921,45500000.0,Sakarya,Serdivan,Çubuklu Mah.,,8+2,5,5-10 Arası,2,Yerden Isıtma,Evet
+29609,13000000.0,İstanbul,Bakırköy,Şenlikköy Mah.,,3+1,,21-25 Arası,3,,
+29000,2400000,İzmir,Buca,Yeşilbağlar Mah.,,3+1,,,4,Doğalgaz (Kombi),Evet
+27488,7150000.0,Bursa,Mudanya,,,3+1,1,26-30 Arası,4,Klima,Evet
+27405,1550000,İstanbul,Maltepe,Çınar Mah.,,6+2,2,5-10 Arası,4,Doğalgaz (Kombi),Evet
+27658,6175000.0,İstanbul,Fatih,Hırka-i Şerif Mah.,,3+1,1,26-30 Arası,6,Doğalgaz (Kombi),Hayır
+29526,2500000,İstanbul,Fatih,Haseki Sultan Mah.,,6+2,3,30+,5,Doğalgaz (Kombi),Evet
+27947,3000000,Kocaeli,Karamürsel,,,7+1,4,11-15 Arası,4,Doğalgaz (Kombi),Evet
+29216,5687500.0,Bursa,Mudanya,Bademli Mah.,,5+1,2,16-20 Arası,3,Doğalgaz (Kombi),Evet
+29876,850000,Sakarya,Geyve,,,4+1,3,11-15 Arası,3,Merkezi Sistem,Evet
+27672,10000000,İstanbul,Beykoz,Rüzgarlıbahçe Mah.,,4+1,2,26-30 Arası,2,Doğalgaz (Kombi),Bilinmiyor
+28251,9750000.0,Aydın,Kuşadası,Soğucak Mah.,,4+1,4,2,2,Klima,Evet
+28257,6500000.0,Ankara,Keçiören,Kavacık Subayevleri Mah.,,4+1,2,11-15 Arası,7,Doğalgaz (Kombi),Evet
+28845,2300000,Antalya,Kaş,,,4+1,Sıfır,,3,Hayır,Hayır
+28465,1200000,İstanbul,Başakşehir,Başak Mah.,,3+1,2,11-15 Arası,9,Doğalgaz (Kombi),Evet
+28122,2300000,İstanbul,Kağıthane,Seyrantepe Mah.,,3+1,2,İnşaat Halinde,12,Doğalgaz (Kombi),Hayır
+26752,2500000,Yalova,Merkez,,,6+2,Yerden Isıtma,Hayır,3,Evet,Evet
+26743,2700000,Yalova,Merkez,,,6+2,3,Sıfır,3,Yerden Isıtma,Evet
+28691,1250000,İzmir,Selçuk,Gökçealan Mah.,,3+1,1,5-10 Arası,2,Merkezi Sistem,Evet
+26765,2450000,Yalova,Merkez,,,6+2,3,Sıfır,3,Yerden Isıtma,Evet
+26869,2850000,İstanbul,Şile,Ağva Merkez Mah.,,5+1,5,,2,Doğalgaz (Kombi),Evet
+26893,6000000,Ordu,Altınordu,,,8+1,3,11-15 Arası,2,Doğalgaz (Kombi),Evet
+27261,1400000,İstanbul,Büyükçekmece,Fatıh Mah.,,4+1,2,5-10 Arası,3,Doğalgaz (Kombi),Evet
+27225,3500000,Antalya,Alanya,,,4+1,3,16-20 Arası,5,Klima,Bilinmiyor
+27335,481000000.0,Kocaeli,Gebze,,7,4+1,1 Yaşından Küçük,,Evet,Hayır,Hayır
+27443,1850000,Bursa,Osmangazi,,,3+1,2,5-10 Arası,4,Yerden Isıtma,Evet
+26926,9750000.0,Sakarya,Sapanca,Ünlüce Mah.,,5+1,,İnşaat Halinde,2,,Evet
+24631,42000000,İstanbul,Eyüp,Mithatpaşa Mah.,,6+2,4,11-15 Arası,4,Isı Pompası,Evet
+24715,2762500.0,İzmir,Bayraklı,,,3+1,2,16-20 Arası,7,Doğalgaz (Kombi),Evet
+24647,600000,İzmir,Buca,Yiğitler Mah.,,3+1,2,16-20 Arası,3,Doğalgaz (Kombi),Evet
+28146,1350000,İstanbul,Beşiktaş,Dikilitaş Mah.,,3+1,2,30+,6,Merkezi Sistem,Evet
+29481,10887500.0,Muğla,Marmaris,Armutalan Mah.,,4+1,3,21-25 Arası,2,Isı Pompası,Evet
+24851,3000000,Kocaeli,Körfez,Güney Mah.,,3+1,2,30+,2,Doğalgaz (Kombi),Bilinmiyor
+27406,3100000,Muğla,Ula,Akyaka Mah.,,5+2,,Hayır,4,Boş,Villa Tipi
+26446,9750000.0,İstanbul,Beykoz,,,6+3,3,4,3,Doğalgaz (Kombi),Evet
+25082,6650000,İstanbul,Zeytinburnu,,,4+2,2,1,3,Doğalgaz (Kombi),Evet
+26540,750000,İstanbul,Esenyurt,Koza Mah.,,3+1,2,5-10 Arası,12,Merkezi Sistem,
+26318,8125000.0,İstanbul,Beykoz,Riva Mah.,,4+2,2,11-15 Arası,2,Klima,Evet
+25149,1995000,Ankara,Çankaya,,,8+2,5,5-10 Arası,4,Doğalgaz (Kombi),Evet
+23155,7312500.0,Ankara,Güdül,Yeni Mah.,,6+1,3,11-15 Arası,2,Merkezi Sistem,Evet
+27348,7250000,Ankara,Çankaya,Mutlukent Mah.,,6+2,4,2,4,Yerden Isıtma,Evet
+23178,11000000,Sakarya,Sapanca,,,6+3,,16-20 Arası,3,,
+26662,11000000,İstanbul,Zeytinburnu,,,5+1,3,5-10 Arası,30+,Merkezi Sistem,Evet
+23613,22750000.0,Yalova,Çınarcık,,,6+1,4,4,3,Doğalgaz (Kombi),
+26658,1150000,Kocaeli,Başiskele,Körfez Mah.,,5+1,2,1 Yaşından Küçük,3,Doğalgaz (Kombi),Evet
+23664,1575000,Bursa,Osmangazi,Çekirge Mah.,,7+1,5,26-30 Arası,6,Merkezi Sistem,Bilinmiyor
+24112,4712500.0,İstanbul,Avcılar,,,3+1,2,1 Yaşından Küçük,22,Merkezi Sistem,Evet
+23434,1462500.0,Sakarya,Kaynarca,Arifağa Mah.,,3+1,,,1,,
+24304,1450000,Bursa,Mudanya,,,4+2,3,1 Yaşından Küçük,3,Yerden Isıtma,Evet
+23420,9000000,İzmir,Urla,İskele Mah.,,3+1,,1 Yaşından Küçük,2,Klima,Bilinmiyor
+19980,5200000.0,Aydın,Kuşadası,Kadınlar Denizi Mah.,,4+1,2,11-15 Arası,3,Doğalgaz (Kombi),Evet
+24302,1800000,Bursa,Mudanya,,,5+1,2,21-25 Arası,3,Doğalgaz (Kombi),Evet
+23061,123500000.0,İstanbul,Kartal,,,5+2,5,5-10 Arası,3,Doğalgaz (Kombi),Evet
+21589,5250000,Samsun,Atakum,,,5+2,3,16-20 Arası,3,Doğalgaz (Kombi),Evet
+20053,11375000.0,İstanbul,Esenyurt,Ardıçlı Mah.,,4+1,2,16-20 Arası,2,Doğalgaz (Kombi),Evet
+21739,30000000,İstanbul,Bakırköy,Yeşilköy Mah.,,10+,,,7,,Evet
+26791,2500000,Yalova,Merkez,,,6+2,3,Sıfır,3,Yerden Isıtma,Evet
+21719,1300000000.0,İstanbul,Sarıyer,Yeniköy Mah.,,10+,,,,,
+20654,4062500.0,İstanbul,Pendik,,,3+1,2,1 Yaşından Küçük,12,Doğalgaz (Kombi),Evet
+23312,4387500.0,Sakarya,Sapanca,Ünlüce Mah.,,3+1,1,11-15 Arası,2,Doğalgaz (Kombi),Evet
+22040,2600000,Sakarya,Akyazı,,,6+2,5,Sıfır,3,Klima,Evet
+22292,55000,Balıkesir,Edremit,,,1+1,1,5-10 Arası,4,Jeotermal,
+24586,2550000,İstanbul,Sarıyer,Merkez Mah.,,2+1,Merkezi Sistem,Hayır,19,Evet,Evet
+16741,8500000,Muğla,Bodrum,,,4+2,3,5-10 Arası,2,Merkezi Sistem,Evet
+16689,52500000,Muğla,Bodrum,,,5+1,,,,,
+19079,18850000.0,İstanbul,Şile,,,10 ve üzeri,3,1,3,Doğalgaz (Kombi),Evet
+22695,28600000.0,Muğla,Ula,,,6+1,,,2,Doğalgaz (Kombi),Evet
+16798,2500000,İstanbul,Büyükçekmece,,,10+2,,,,,Evet
+16530,2400000,İstanbul,Büyükçekmece,,,7+3,4,11-15 Arası,4,Doğalgaz (Kombi),Evet
+17396,4192500.0,İstanbul,Maltepe,Küçükyalı Mah.,,2+1,2,1 Yaşından Küçük,6,Doğalgaz (Kombi),Evet
+18832,4387500.0,İstanbul,Fatih,,,3+1,2,30+,5,Doğalgaz (Kombi),Evet
+17862,10075000.0,Bursa,Nilüfer,Demirci Mah.,,5+1,5,3,3,Doğalgaz (Kombi),Evet
+17238,10500000,İstanbul,Büyükçekmece,,,4+2,5,,3,,
+13136,89375000.0,Bursa,Mudanya,Bademli Mah.,,,2,Sıfır,3,Yerden Isıtma,Evet
+16580,4000000,İstanbul,Beşiktaş,Ortaköy Mah.,,3+1,3,Sıfır,4,Doğalgaz (Kombi),Evet
+17961,21125000.0,İstanbul,Çatalca,,,10+2,7,4,4,Doğalgaz (Kombi),Evet
+18670,4387500.0,Bursa,Mudanya,Güzelyalı Burgaz Mah.,,3+2,3,3,2,Doğalgaz (Kombi),Evet
+16219,9750000.0,İstanbul,Beşiktaş,,,2+1,2,1 Yaşından Küçük,30+,Yerden Isıtma,Bilinmiyor
+12921,27625000.0,İstanbul,Sarıyer,Uskumruköy Mah.,,4+1,3,2,3,Doğalgaz (Kombi),Evet
+22818,81250000.0,Ankara,Çankaya,,,10+,6+,Sıfır,8,Merkezi Sistem,Evet
+18936,9100000.0,İzmir,Karşıyaka,Bostanlı Mah.,,5+1,3,1 Yaşından Küçük,4,Doğalgaz (Kombi),Evet
+22204,2500000,Bolu,Mengen,Bürnük Köyü,,4+1,2,1,2,Merkezi Sistem,Evet
+16297,2960000,İstanbul,Beşiktaş,,,3+1,1,30+,5,Merkezi Sistem,Evet
+15556,8125000.0,İzmir,Dikili,Cumhuriyet Mah.,,5,2,1 Yaşından Küçük,3,Klima,Evet
+16336,3900000.0,İstanbul,Ataşehir,Aşık Veysel Mah.,,4+1,3,5-10 Arası,10,Doğalgaz (Kombi),Evet

@@ -1,0 +1,476 @@
+ilan no,Price,City,Town,Date,Neighbourhood,Tapu Status,Structure Status,Total Square of Meter,Number of room,Number of bathroom,Age of Structure,Number of floors,Heating,Credi Accepting,Seller,Swap
+3248,3.100.000,Ankara,Pursaklar,29/04/24,Saray Fatih Mahallesi,kat mülkiyetli,var,180,4+1,2,11-15 arası,9,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3406,2.900.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3518,2.550.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,130,3+1,1,31 ve üzeri,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4322,5.500.000,Ankara,Altındağ,29/04/24,Güneşevler Mahallesi,kat mülkiyetli,var,350,6+2,2,11-15 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3639,2.800.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
+3576,6.850.000,Ankara,Keçiören,29/04/24,Kavacık Subayevleri Mahallesi,kat mülkiyetli,var,180,4+1,2,3,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+1437,3.250.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,110,3+1,1,16-20 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3053,8.500.000,Ankara,Altındağ,29/04/24,Güneşevler Mahallesi,kat mülkiyetli,var,300,4+2,2,11-15 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+941,3.350.000,Ankara,Altındağ,29/04/24,Güneşevler Mahallesi,kat mülkiyetli,var,120,3+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+2106,2.850.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
+1678,2.650.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+2946,6.300.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,175,4+1,2,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4106,7.550.000,Ankara,Yenimahalle,29/04/24,Turgut Özal Mahallesi,kat mülkiyetli,var,244,4+1,2,21-25 arası,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+1499,2.950.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+2378,2.500.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3408,2.750.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4482,3.750.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,103,2+1,1,0,15,Yerden Isıtma,Evet,Emlak Ofisi,Hayır
+3773,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+963,2.850.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
+4774,2.750.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4925,2.750.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+2027,2.650.000,Ankara,Altındağ,29/04/24,Güneşevler Mahallesi,kat mülkiyetli,var,140,3+1,2,5-10 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+966,2.650.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,120,3+1,1,16-20 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4520,2.650.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4343,2.100.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,85,2+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+400,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),,Emlak Ofisi,Hayır
+3490,4.200.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,125,3+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+305,7.500.000,Ankara,Altındağ,29/04/24,Güneşevler Mahallesi,kat mülkiyetli,var,240,5+1,2,0,20,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4732,6.300.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,250,4+1,2,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4216,2.950.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3325,2.650.000,Ankara,Altındağ,29/04/24,Altınpark Mahallesi,kat mülkiyetli,var,225,3+1,1,21-25 arası,1,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1464,2.650.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,3+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3554,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+2645,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3606,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4340,2.250.000,Ankara,Keçiören,29/04/24,Kavacık Subayevleri Mahallesi,kat mülkiyetli,var,110,3+1,1,31 ve üzeri,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3577,6.300.000,Ankara,Keçiören,28/04/24,Kavacık Subayevleri Mahallesi,kat mülkiyetli,var,180,4+1,2,3,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3456,2.750.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,90,2+1,1,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4477,3.100.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,120,3+1,1,31 ve üzeri,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4341,3.750.000,Ankara,Altındağ,29/04/24,Güneşevler Mahallesi,kat mülkiyetli,var,180,4+1,2,5-10 arası,10,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1269,1.650.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,110,3+1,1,26-30 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3416,4.500.000,İzmir,Bayraklı,29/04/24,Org.Nafiz Gürman Mahallesi,KAT MÜLKÜYETİ TAPU,İKİNCİ EL,145,3+1,2,4,7,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1653,2.550.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
+3894,4.850.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,145,3+1,2,11-15 arası,7,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+900,2.650.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+1814,4.885.000,İzmir,Karşıyaka,29/04/24,Fikri Altay Mahallesi,MÜSTAKİL TAPULU,İKİNCİ EL,110,2+1,2,5-10 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3415,5.275.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,200,4+1,2,21-25 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+1827,3.850.000,İzmir,Karşıyaka,29/04/24,Bostanlı Mahallesi,MÜSTAKİL TAPULU,İKİNCİ EL,200,3+1,2,21-25 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4924,3.650.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,170,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4375,8.350.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,165,3+1,2,11-15 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4902,2.850.000,Balıkesir,Edremit,20/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,65,1+1,1,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4004,3.500.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,125,3+1,2,21-25 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4906,3.000.000,Balıkesir,Edremit,21/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,75,2+1,2,0,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
+4907,5.500.000,Balıkesir,Edremit,21/04/24,Akçay Mahallesi,Kat irtifaklı,SIFIR,120,4+1,2,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4909,5.500.000,İzmir,Seferihisar,21/04/24,Mersin Alanı Mahallesi,mustakil,2022,150,3+1,2,0,2,Klima,Evet,Emlak Ofisi,Hayır
+4905,3.200.000,Balıkesir,Edremit,21/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,65,1+1,1,0,3,Kat Kaloriferi,Evet,Emlak Ofisi,Evet
+4900,4.350.000,Balıkesir,Edremit,20/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,120,2+1,2,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4912,11.000.000,Balıkesir,Edremit,21/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,220,3+1,3,0,3,Yerden Isıtma,Evet,Emlak Ofisi,Evet
+4916,7.800.000,Balıkesir,Edremit,21/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,130,4+1,3,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1580,2.850.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,180,3+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
+527,2.600.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4721,4.750.000,Sinop,Merkez,23/04/24,Ada Mahallesi,-,-,110,3+1,2,5-10 arası,4,Doğalgaz (Kombi),,Sahibinden,
+4923,5.500.000,Balıkesir,Edremit,22/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,130,3+1,3,0,2,Doğalgaz (Kombi),,Emlak Ofisi,Evet
+4899,2.550.000,Balıkesir,Edremit,24/04/24,Kadıköy Mahallesi,Kat irtifaklı,Sıfır,85,2+1,2,0,8,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4913,8.950.000,Balıkesir,Edremit,21/04/24,Zeytinli Mahallesi,KAT MÜLKİYETLİ,SIFIR,255,6+1,4,0,3,Yerden Isıtma,Evet,Emlak Ofisi,Evet
+4926,6.700.000,Balıkesir,Edremit,22/04/24,Zeytinli Mahallesi,KAT MÜLKİYETLİ,-,278,4+1,2,5-10 arası,3,Yerden Isıtma,Evet,Emlak Ofisi,Hayır
+4327,3.600.000,Ankara,Altındağ,28/04/24,Ulubey Mahallesi,kat mülkiyetli,var,160,3+1,2,5-10 arası,11,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4934,4.750.000,Sinop,Merkez,23/04/24,Ada Mahallesi,müstakil,betonarme,110,3+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1918,2.650.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+2148,2.700.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3575,4.250.000,Ankara,Keçiören,28/04/24,Kavacık Subayevleri Mahallesi,kat mülkiyetli,var,130,3+1,2,3,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+301,2.650.000,Ankara,Altındağ,28/04/24,Altınpark Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4914,2.500.000,Balıkesir,Edremit,21/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,65,1+1,1,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+2170,8.750.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,165,3+1,2,5-10 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4478,5.300.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,120,3+1,2,0,3,Yerden Isıtma,Evet,Emlak Ofisi,Hayır
+1422,2.650.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4027,4.980.000,İzmir,Karşıyaka,29/04/24,Demirköprü Mahallesi,KATMÜLKÜYETİ,İKİNCİ EL,162,3+1,2,5-10 arası,6,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4002,2.750.000,İzmir,Karşıyaka,29/04/24,Şemikler Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,110,2+1,2,4,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4596,7.800.000,İstanbul (Avr),Beylikdüzü,16/04/24,Marmara Mahallesi,kat mülkiyet,sıfır,120,2+1,1,0,11,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3495,4.100.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,180,3+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4593,1.500.000,İstanbul (Avr),Başakşehir,16/04/24,Bahçeşehir 2. Kısım Mahallesi,kat mülkiyet,sıfır,88,1+1,1,0,12,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3432,3.450.000,Ankara,Altındağ,28/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,90,2+1,1,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4585,915.000,İstanbul (Avr),Esenyurt,16/04/24,Talatpaşa Mahallesi,kat mülkiyet,sıfır,100,1+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4901,7.000.000,Balıkesir,Edremit,20/04/24,Akçay Mahallesi,KAT MÜLKİYETLİ,SIFIR,220,4+1,3,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4601,800.000,İstanbul (Avr),Esenyurt,16/04/24,Talatpaşa Mahallesi,kat mülkiyet,sıfır,85,Stüdyo,1,0,15,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4592,2.850.000,İstanbul (Avr),Beylikdüzü,16/04/24,Adnan Kahveci Mahallesi,kat mülkiyet,sıfır,145,3+1,2,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4694,1.480.000,İstanbul (Avr),Esenyurt,16/04/24,Atatürk Mahallesi,kat mülkiyet,sıfır,110,1+1,1,0,12,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4696,1.350.000,İstanbul (Avr),Esenyurt,16/04/24,Güzelyurt Mahallesi,kat mülkiyet,sıfır,115,2+1,2,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4695,1.100.000,İstanbul (Avr),Esenyurt,16/04/24,Pınar Mahallesi,kat mülkiyet,sıfır,115,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4024,3.250.000,İzmir,Karşıyaka,29/04/24,Demirköprü Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,135,3+1,2,21-25 arası,6,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4740,1.325.000,İstanbul (Avr),Esenyurt,16/04/24,Cumhuriyet Mahallesi,kat mülkiyet,sıfır,100,1+1,1,0,18,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4692,2.050.000,İstanbul (Avr),Esenyurt,16/04/24,Yenikent Mahallesi,kat mülkiyet,sıfır,165,3+1,2,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3981,3.000.000,İzmir,Konak,10/04/24,Alsancak Mahallesi,Kat Mülkiyetli,Betonarme Karkas,103,3+1,1,26-30 arası,5,Klima,Evet,Sahibinden,Evet
+4602,1.520.000,İstanbul (Avr),Esenyurt,16/04/24,Talatpaşa Mahallesi,kat mülkiyet,sıfır,115,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4716,350.000,Balıkesir,Manyas,20/02/24,Kocagöl Mahallesi,Arsa tapulu,-,68,1+1,1,5-10 arası,3,Jeotermal,Hayır,Sahibinden,Evet
+4749,2.800.000,İstanbul (Asya),Çekmeköy,29/02/24,Sultançiftliği Mahallesi,Kat irtifaki,Betonarme,97,1+1,1,4,10,Merkezi Sistem,Evet,Sahibinden,Evet
+4799,6.200.000,İstanbul (Avr),Beylikdüzü,16/04/24,Kavaklı Mahallesi,KAT MÜLKİYET İSKANLI,SIFIR BETONERME,180,3+1,2,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4752,2.400.000,Konya,Karatay,29/02/24,Köprübaşı Mahallesi,Kat Mülkiyetli Hisseli,İmarlı Arsa,165,3+1,1,0,5,Merkezi Sistem,Hayır,Sahibinden,Hayır
+4693,1.875.000,İstanbul (Avr),Esenyurt,16/04/24,Yenikent Mahallesi,kat mülkiyet,sıfır,150,3+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4717,450.000,Balıkesir,Manyas,20/02/24,Kulak Mahallesi,-,-,7 0,2+1,1,5-10 arası,3,Jeotermal,Hayır,Sahibinden,Evet
+4688,2.100.000,Kayseri,Kocasinan,22/02/24,Ahi Evran Mahallesi,KAT MÜLKİYETİ,OTURULUR,165,3+1,2,4,8,Merkezi Sistem,Evet,Sahibinden,Hayır
+4806,1.495.000,Manisa,Yunusemre,19/03/24,50.Yıl Mahallesi,KAT MÜLKİYET,KONUT,50,1+1,1,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4802,1.600.000,Ardahan,Göle,19/03/24,Kubilay Bey Mahallesi,KAT MÜLKİYET,SIFIR,120,3+1,,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4805,1.740.000,Manisa,Yunusemre,19/03/24,50.Yıl Mahallesi,KAT MÜLKİYET,KONUT,85,2+1,1,3,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4772,2.790.000,Ankara,Etimesgut,19/03/24,Yukarıyurtçu Mahallesi,KAT MÜLKİYETİ,SIFIR,124,3+1,1,5-10 arası,12,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+4821,1.750.000,İzmir,Karabağlar,24/03/24,Üçkuyular Mahallesi,kat mülkiyetli,-,120,3+1,1,31 ve üzeri,5,Doğalgaz (Kombi),,Sahibinden,Hayır
+4587,2.100.000,İstanbul (Avr),Esenyurt,08/04/24,Örnek Mahallesi,kat mülkiyet,sıfır,170,3+1,2,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4691,1.350.000,İstanbul (Avr),Esenyurt,08/04/24,Yenikent Mahallesi,kat mülkiyet,sıfır,110,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4804,2.750.000,Manisa,Yunusemre,19/03/24,50.Yıl Mahallesi,KAT MÜLKİYET,KONUT,140,4+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4763,5.225.000,İstanbul (Avr),Beylikdüzü,04/03/24,Sahil Mahallesi,-,-,310,4+2,2,11-15 arası,9,,Evet,Emlak Ofisi,Evet
+4598,1.200.000,İstanbul (Avr),Esenyurt,08/04/24,Mehterçeşme Mahallesi,kat mülkiyet,sıfır,110,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4606,1.455.000,İstanbul (Avr),Esenyurt,08/04/24,Güzelyurt Mahallesi,kat mülkiyet,sıfır,95,1+1,1,0,30,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4801,4.750.000,Kocaeli,Kartepe,19/03/24,Sarımeşe Mahallesi,kat ittifakı,betonerme,150,3+1,1,0,2,Yerden Isıtma,Evet,Sahibinden,Evet
+4786,3.200.000,İstanbul (Avr),Beylikdüzü,08/04/24,Dereağzı Mahallesi,kat mülkiyet,sıfır,115,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4612,3.180.000,Balıkesir,Altıeylül,29/01/24,Bahçelievler Mahallesi,Kat İrtifaklı,-,130,2+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+4869,4.800.000,İstanbul (Avr),Beylikdüzü,08/04/24,Adnan Kahveci Mahallesi,KAT MÜLKİYET İSKANLI,SIFIR BETONERME,170,3+1,2,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4487,800.000,Bolu,Merkez,09/01/24,,-,yeni,100,3+1,1,,-,,,,
+4488,1.280.000,Sakarya,Karasu,09/01/24,,-,yeni,160,4+2,2,,-,Doğalgaz (Kombi),Hayır,İnşaat Firması,Hayır
+4221,2.500.000,İzmir,Menemen,12/01/24,Gazi Mahallesi,KAT MÜLKİYETİ,-,85,2+1,1,1,8,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4583,1.250.000,İstanbul (Avr),Beylikdüzü,27/01/24,Cumhuriyet Mahallesi,KAT MÜLKİYET TAPULU,YENİ,75,1+1,1,4,12,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4676,1.600.000,İstanbul (Avr),Esenyurt,08/04/24,Mehterçeşme Mahallesi,kat mülkiyet,sıfır,125,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4588,1.150.000,İstanbul (Avr),Esenyurt,27/01/24,Güzelyurt Mahallesi,KAT MÜLKİYET TAPULU,YENİ,95,2+1,2,4,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4613,1.100.000,İstanbul (Avr),Esenyurt,08/04/24,Mehterçeşme Mahallesi,kat mülkiyet,sıfır,110,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4586,1.250.000,İstanbul (Avr),Esenyurt,27/01/24,Mehterçeşme Mahallesi,kat mülkiyet,boş,100,2+1,1,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4590,2.350.000,İstanbul (Avr),Beylikdüzü,27/01/24,Adnan Kahveci Mahallesi,KAT MÜLKİYET TAPULU,YENİ,115,2+1,2,1,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4603,1.050.000,İstanbul (Avr),Esenyurt,28/01/24,,kat mülkiyet,boş,100,2+1,1,0,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4857,1.420.009,Bursa,Osmangazi,06/04/24,Demirtaş Cumhuriyet Mahallesi,Kat mulkiyet,-,145,3+1,1,11-15 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4115,1.450.000,Muğla,Bodrum,19/10/23,Yalıkavak Mahallesi,müstakil,yeni,250,4+3,3,3,3,Yerden Isıtma,Evet,Sahibinden,Hayır
+4614,2.000.000,İstanbul (Avr),Esenyurt,30/01/24,İncirtepe Mahallesi,kat mülkiyet,boş,130,2+1,1,4,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4050,3.125.000,Balıkesir,Gömeç,11/10/23,Kemalpaşa Mahallesi,arsa tapulu,2. el,1100,,1,5-10 arası,1,Soba,,Emlak Ofisi,Evet
+4591,1.890.000,İstanbul (Avr),Esenyurt,27/01/24,Güzelyurt Mahallesi,KAT MÜLKİYET TAPULU,YENİ,110,2+1,2,2,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4093,2.600,İzmir,Bayraklı,14/10/23,Postacılar Mahallesi,Kat mulkiyetli,imarli,80,2+1,1,0,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4584,1.570.000,İstanbul (Avr),Beylikdüzü,27/01/24,Adnan Kahveci Mahallesi,KAT MÜLKİYET TAPULU,YENİ,70,1+1,1,4,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+1976,4.050.000,Bursa,Nilüfer,26/10/23,Esentepe Mahallesi,Kat mülkiyeti,Betonarme,135,3+1,2,16-20 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+4130,2.775.000,Ankara,Sincan,22/10/23,Menderes Mahallesi,Kat Mülkiyetli,Sıfır,Brüt 135 metrekare,3+1,2,,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4176,1.250.000,Tekirdağ,Süleymanpaşa,08/11/23,Zafer Mahallesi,Kat İrtifakı,Betonarme,68,1+1,1,3,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4101,1.650.000,Mersin,Akdeniz,16/10/23,Mesudiye Mahallesi,Var,Var,120,3+1,1,31 ve üzeri,7,Klima,Evet,Sahibinden,Hayır
+4185,498.500,Kırıkkale,Yahşihan,09/11/23,Yenişehir Mahallesi,KAT İRTİFAKLI,8 YILLIK,55,1,1,5-10 arası,10,Merkezi Sistem,Hayır,Sahibinden,Hayır
+4186,4.300.000,İstanbul (Asya),Kartal,10/11/23,Hürriyet Mahallesi,kat mülkiyeti,ikinci el,110,3+1,1,5-10 arası,7,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4105,3.250.000.000,Mersin,Erdemli,16/10/23,Kızkalesi Mahallesi,Açıklanır,-,75,3+1,1,,10,Klima,Hayır,Sahibinden,Hayır
+4211,1.415.000,İstanbul (Avr),Esenyurt,18/11/23,Yenikent Mahallesi,kat irtifaklı,boş,110,3+1,1,0,7,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4514,1.750.000,Osmaniye,Kadirli,11/01/24,Bağ Mahallesi,-,23-30 senelik,140 m2,3+1,1,21-25 arası,2,Klima,Hayır,Sahibinden,Hayır
+4229,1.450.000,İstanbul (Avr),Beylikdüzü,22/11/23,Cumhuriyet Mahallesi,kat irtifaklı,boş,110,3+1,1,0,6,Doğalgaz (Kombi),Evet,,Evet
+4228,5.050.000,Bursa,Nilüfer,21/11/23,Altınşehir Mahallesi,Kat Mülkiyetli,İkinci El,180,4+1,1,16-20 arası,9,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4210,1.430.000,İstanbul (Avr),Esenyurt,18/11/23,Güzelyurt Mahallesi,kat irtifaklı,boş,110,3+1,1,0,6,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4236,1.455.000,İstanbul (Avr),Beylikdüzü,23/11/23,Kavaklı Mahallesi,kat irtifaklı,boş,110,3+1,1,0,6,Doğalgaz (Kombi),Evet,,Evet
+4224,1.290.000,Trabzon,Sürmene,21/11/23,Zeytinli Mahallesi,Mevcuttur,-,90,2+1,1,5-10 arası,10,Doğalgaz Sobası,,Sahibinden,
+2054,4.950.000,Malatya,Yeşilyurt,07/12/23,Tecde Mahallesi,Kat Mülkiyeti,-,235,4+1,2,0,11,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+365,12.000,Karabük,Safranbolu,30/01/24,Emek Mahallesi,kat irtifağı tapusu,betonarme,122,2+1,1,2,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3231,1.900.000,Ankara,Sincan,28/12/23,Hürriyet Mahallesi,kat mülkiyeti,-,140,3+1,1,11-15 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+3878,11.500.000,Adana,Seyhan,07/01/24,Cemalpaşa Mahallesi,KAT irtifakı,Boş daire,161,4+1,2,5-10 arası,8,Doğalgaz Sobası,Hayır,Sahibinden,Hayır
+4238,1.460.000,İstanbul (Avr),Beylikdüzü,23/11/23,Beylikdüzü OSB,kat irtifaklı,boş,110,3+1,1,0,6,Doğalgaz (Kombi),Evet,,Evet
+4462,2.600.000,İstanbul (Avr),Kağıthane,30/12/23,Harmantepe Mahallesi,Arsa Tapulu,Betonarme,80,1+1,1,,6,Doğalgaz (Kombi),Hayır,Sahibinden,Evet
+4662,2.500.000,İstanbul (Asya),Maltepe,05/02/24,Bağlarbaşı Mahallesi,-,-,100,3+1,2,0,2,Doğalgaz (Kombi),Evet,İnşaat Firması,Evet
+4697,3.000.000,Balıkesir,Burhaniye,16/02/24,Öğretmenler Mahallesi,kat mülkiyeti,ikinci el,80 m2,2+1,1,21-25 arası,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4428,1.150.000,Samsun,İlkadım,24/12/23,Kadıköy Mahallesi,Kat İrtifakı,-,90,2+1,1,21-25 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4239,1.650.000,Balıkesir,Erdek,23/11/23,Atatürk Mahallesi,-,-,80,2+1,1,26-30 arası,2,Yerden Isıtma,Evet,Sahibinden,
+3719,1.470.000,Ankara,Sincan,30/08/23,İstasyon Mahallesi,Kat mülkiyeti,30 yıl,116,3+1,1,26-30 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3771,1.800.000,Bilecik,Bilecik (il merkezi),01/09/23,Osmangazi Mahallesi,KAT MÜLKİYETİ,BETONARME,135,3+1,1,16-20 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3841,1.400.000,İstanbul (Avr),Küçükçekmece,08/09/23,Kanarya Mah.,Hisseli,-,-,1+1,1,21-25 arası,6,Doğalgaz Sobası,Hayır,Sahibinden,Hayır
+3858,4.300.000,Kocaeli,Darıca,11/09/23,Nenehatun Mahallesi,MÜSTAKİL TAPU,BİNA,177,3+1,1,11-15 arası,3,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+4701,6.750.000,Balıkesir,Burhaniye,17/02/24,Öğretmenler Mahallesi,kat irtifakı,sıfır,200m2 / 140m2,4+1,2,0,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4698,4.750.000,Balıkesir,Burhaniye,16/02/24,Ören Mahallesi,kat mülkiyeti,ikinci el,200m2 / 180m2,3+1,1,21-25 arası,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3880,2.900.000,Aydın,Kuşadası,14/09/23,İkiçeşmelik Mahallesi,Var,iskani var,160,3+1,1,11-15 arası,-,Klima,Evet,Sahibinden,Hayır
+3873,2.540.000,İstanbul (Avr),Esenyurt,12/09/23,Namık Kemal Mahallesi,İrtifak,2.El,70,1+1,1,4,39,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+3501,3.550.000,Zonguldak,Merkez,28/08/23,Terakki Mahallesi,müstakil,kagir,180,4+1,2,16-20 arası,2,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3960,8.000.000,Antalya,Manavgat,30/09/23,Ilıca Mahallesi,kat mülkiyeti,betonarme,200,4+1,2,11-15 arası,3,Kat Kaloriferi,Evet,Sahibinden,Hayır
+3850,1.850.000,İstanbul (Asya),Sultanbeyli,10/09/23,Mimar Sinan Mahallesi,Kat itifakli,Betonarme,100,2+1,1,0,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3922,3.500.000,İzmir,Buca,24/09/23,Kaynaklar Merkez Mahallesi,Hisseli,Prefabrik,520m2,2+1,1,5-10 arası,Bahceli tekkat,Klima,Hayır,Sahibinden,Hayır
+3936,12.000.000,İstanbul (Asya),Kadıköy,27/09/23,Erenköy Mahallesi,Mülkiyet,Yeni,85 net,2+1,1,5-10 arası,12,,,Sahibinden,Hayır
+3421,1.480.000,Kocaeli,Kartepe,10/07/23,Ataşehir Mahallesi,Kat mülkiyeti,İkinci el,100,2+1,2,11-15 arası,3,Merkezi Sistem,Evet,Sahibinden,Hayır
+2050,4.250.000,Malatya,Yeşilyurt,07/12/23,Karakavak Mahallesi,KAT İRTİFAKI,-,235,4+1,2,0,12,Merkezi Sistem,,Emlak Ofisi,Hayır
+3466,2.050,Kocaeli,Kartepe,11/07/23,Ataevler Mahallesi,KAT MÜLKİYETLİ,-,117,2+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3460,11.000.000,Antalya,Muratpaşa,10/07/23,Çağlayan Mahallesi,Kat irtifakı,Dubleks,175 brüt 155 net,3+2,2,11-15 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3500,2.900.000,Adana,Seyhan,14/07/23,Yeşilyurt Mahallesi,Mal sahibi,Betonarme,170,3+1,1,21-25 arası,9,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+3502,3.000.000,İstanbul (Avr),Küçükçekmece,14/07/23,Cumhuriyet Mah.,Arsa Tapulu,İSKANLI,150,3+1,1,21-25 arası,5,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+3443,9.500.000,İzmir,Dikili,08/07/23,Salihler Mahallesi,-,Boş,333,6+1,3,0,3,Klima,Evet,Sahibinden,Evet
+2209,1.900.000,İzmir,Balçova,20/07/23,Eğitim Mahallesi,-,-,80,2+1,1,21-25 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+2211,2.800.000,İzmir,Balçova,20/07/23,Eğitim Mahallesi,-,-,100,2+1,1,21-25 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+2212,2.800.000,İzmir,Balçova,20/07/23,Teleferik Mahallesi,-,-,80,2+1,1,16-20 arası,5,Jeotermal,Evet,Sahibinden,Evet
+3442,1.990.000,İstanbul (Avr),Sultangazi,08/07/23,Cebeci Mahallesi,KAT İRTİFAKLI,-,105,2+1,1,11-15 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3515,980.000,İstanbul (Avr),Esenyurt,18/07/23,Ardıçlı Mahallesi,-,-,90,1+1,1,5-10 arası,4,Doğalgaz (Kombi),,Sahibinden,Hayır
+3940,4.250,Tekirdağ,Marmaraereğlisi,28/09/23,Dereağzı Mahallesi,KAT İTİFAKLI,BETONARME,200,5+1,3,0,3,Doğalgaz (Kombi),,Sahibinden,Evet
+3364,2.275.000,Tekirdağ,Çorlu,27/07/23,Yenice Mahallesi,Kat mülkiyetli,Betonarme,95,2+1,1,21-25 arası,3,Yok,Evet,Sahibinden,Evet
+3579,4.500.000,Bursa,Nilüfer,28/07/23,Ataevler Mahallesi,sahibinden,yeni,146,3+1,2,0,10,Yerden Isıtma,Evet,Sahibinden,Hayır
+3589,11.750.000,Adana,Çukurova,02/08/23,Karslılar Mahallesi,Kat mülkiyetli,-,300,3+1,2,3,4,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+3590,1.350.000,Ankara,Mamak,02/08/23,Misket Mahallesi,KAT MÜLKİYETLİ,SIFIR,80,2+1,1,2,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3567,1.500.000,Yalova,Armutlu,27/07/23,Bayır Mahallesi,Kat Mülkiyeti,Betonarme,90,2+1,1,21-25 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3597,2,Muğla,Bodrum,04/08/23,Güvercinlik Mahallesi,-,-,60,2+1,2,1,1,Klima,Hayır,Sahibinden,Hayır
+3592,82.000,Ankara,Mamak,14/08/23,Abidinpaşa Mahallesi,Bağımsız,20 yaş,100,3+1,1,16-20 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3676,1.600.000,İstanbul (Avr),Başakşehir,19/08/23,Başakşehir Mahallesi,Kat mülkiyetli,-,700,6+2,3,0,4,Yerden Isıtma,Evet,Sahibinden,Evet
+3314,1.000.000,İzmir,Konak,25/07/23,Levent Mahallesi,VAR,VAR,150,3+1,1,31 ve üzeri,4,Klima,Hayır,Sahibinden,Hayır
+3182,4.250.000,İstanbul (Avr),Beylikdüzü,17/05/23,Adnan Kahveci Mahallesi,var,daire,185,3+1,2,16-20 arası,11,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3633,3.000.000,Mersin,Erdemli,12/08/23,Arpaçbahşiş Mahallesi,-,-,-,2+1,2,,9,,Hayır,Sahibinden,Hayır
+2570,3.050.000,Bursa,Mudanya,22/07/23,Halitpaşa Mahallesi,kat irtifaklı,-,125,2+1,3,,4,Yerden Isıtma,Evet,Emlak Ofisi,Evet
+3174,1.250.000,Tekirdağ,Süleymanpaşa,26/05/23,100. Yıl Mahallesi,KAT MÜLKİYETİ,BOŞ,100,2+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+3222,6.700.000,İstanbul (Asya),Beykoz,26/05/23,Göztepe Mahallesi,var,betonarme,150,3+1,1,21-25 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3199,7.850.000,Tekirdağ,Çorlu,21/05/23,Türkgücü Mahallesi,kat mülkiyeti,bitmiş,220,5+2,1,5-10 arası,bahçeli,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3221,5.300.000,Adana,Seyhan,27/05/23,Yenibaraj Mahallesi,MÜSTAKİL,BETONARME,230,4+1,2,11-15 arası,14,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3266,4.450.000,İstanbul (Asya),Ümraniye,02/06/23,Çakmak Mahallesi,DAİRE TAPUSU,UYGUN,85,2+1,1,5-10 arası,12,Merkezi Sistem,Evet,Sahibinden,Hayır
+3198,1.650,Kırklareli,Merkez,21/05/23,Karacaibrahim Mahallesi,Müstakil tapu,Boş,140,3+1,1,16-20 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3272,2.870.000,İstanbul (Avr),Başakşehir,02/06/23,Kayabaşı Mahallesi,TAPULU,SIFIR,155,3+2,3,2,3,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+3320,1.200.000,Eskişehir,Tepebaşı,11/06/23,Yenibağlar Mahallesi,Kat mülkiyetli,-,75,1+1,1,16-20 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3290,1.200.000,İzmir,Çiğli,07/06/23,Küçük Çiğli Mahallesi,Kat irtifakı,İkinci el,45,Stüdyo,1,5-10 arası,3,Yok,Evet,Emlak Ofisi,Hayır
+2945,1.975.000,Mersin,Yenişehir,18/04/23,Batıkent Mahallesi,Kat irtifakı,Yeni,75,2+1,1,4,7,Klima,,Sahibinden,Hayır
+3342,4.750.000,İzmir,Urla,13/06/23,Sıra Mahallesi,var,betonarme,150,2+1,1,0,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3583,6.950.000,İstanbul (Avr),Bağcılar,29/07/23,Mahmutbey Mahallesi,arsa imarlı,betonarme,200,2+1,1,21-25 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2872,600.000,Antalya,Kemer,11/04/23,Çamyuva Mahallesi,Müstakil,1996,135,4+1,2,21-25 arası,2,,Evet,Sahibinden,
+2873,1.680.000,Bursa,İnegöl,11/04/23,Yenice Mahallesi,İrtifak,Sıfır,110,2+1,2,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3335,15.000.000,İstanbul (Avr),Silivri,12/06/23,Semizkumlar Mahallesi,KAT MÜLKİYET,BOŞ,290,6+2,2,21-25 arası,3,Klima,Evet,Sahibinden,Evet
+2917,1.500.000,İstanbul (Avr),Esenyurt,14/04/23,Merkez Mahallesi,Kat İrtifaklı,5-10 ARASI,200,4+2,2,5-10 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2920,3.400.000,İstanbul (Avr),Esenyurt,14/04/23,Namık Kemal Mahallesi,Mülkiyet,2.El,157,3+1,2,4,24,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+3246,38.000.000,İzmir,Çeşme,31/05/23,Reisdere Mahallesi,-,-,147,4+1,1,31 ve üzeri,2,Yok,Evet,Sahibinden,Hayır
+676,2.250.000,Ankara,Mamak,18/04/23,Şahintepe Mahallesi,VAR,-,300,5+1,2,11-15 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,
+3044,2.600.000,İzmir,Karabağlar,24/04/23,Fahrettin Altay Mahallesi,KAT MÜLKİYETİ,-,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1578,2.250.000,Ankara,Mamak,18/04/23,Şahintepe Mahallesi,VAR,BET.,300,5+1,2,11-15 arası,7,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3048,1.800.000,İstanbul (Asya),Adalar,26/04/23,,Eşdeğer,Proejden,72,1+1,1,0,11,Klima,Evet,Sahibinden,Hayır
+3337,8.000.000,İstanbul (Asya),Beykoz,12/06/23,Anadolu Hisarı Mahallesi,Hisseli,İzinle yapılabiliyor,187 m2,3+1,2,21-25 arası,1,Doğalgaz (Kombi),,Sahibinden,Hayır
+3113,4.100.000,Bolu,Mengen,03/05/23,,arsa,-,1382,3+1,1,26-30 arası,3,Soba,Hayır,Sahibinden,Hayır
+3085,2.000.000,İstanbul (Avr),Büyükçekmece,28/04/23,Çakmaklı Mahallesi,var,imari,105,2+1,1,11-15 arası,12,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3117,12.000.000,İstanbul (Avr),Büyükçekmece,03/05/23,Sinanoba Mahallesi,KAT İRTİFAKLI,-,285,5+1,2,16-20 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+2794,21.850.000,İstanbul (Avr),Çatalca,04/05/23,Kalfa Mahallesi,MÜSTAKİL TAPU,5-10 ARASI,21000,3+1,1,5-10 arası,TEK KAT,Soba,Evet,Emlak Ofisi,Hayır
+2245,2.200.000,Samsun,Atakum,04/05/23,İncesu Yalı Mahallesi,-,-,-,1+1,1,0,7,Kat Kaloriferi,Evet,Sahibinden,Evet
+2842,5.750.000,İstanbul (Avr),Şişli,08/04/23,Meşrutiyet Mahallesi,-,-,110,3+1,2,16-20 arası,5,Merkezi Sistem,Evet,Sahibinden,Hayır
+2651,2.795.000,İstanbul (Avr),Eyüp,09/05/23,Güzeltepe Mahallesi,KATMÜLKİYETİ,"2,EL",130,3+1,1,5-10 arası,7,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+3147,2.301,Adana,Karaisalı,08/05/23,Karapınar Mahallesi,Kat mülkiyeti,-,130,3+1,1,5-10 arası,5,Klima,Evet,Sahibinden,
+3160,15.000.000,İstanbul (Asya),Pendik,12/05/23,Çamlık Mahallesi,KAT MULKIYETLI,15,350,6+1,5,16-20 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+2925,3.750.000,İstanbul (Avr),Çatalca,14/04/23,Kaleiçi Mahallesi,MÜSTAKİL TAPU,5-10 ARASI,135,3+1,2,5-10 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3173,6.000.000,Ankara,Çankaya,16/05/23,Hilal Mahallesi,Kat Mülkiyeti,-,270,6+2,3,16-20 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3170,244.800,Mersin,Mezitli,14/06/23,Menderes Mahallesi,Kat İrtifakı,2. El,125,2+1,2,21-25 arası,8,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+3178,1.250.000,İzmir,Konak,17/05/23,Kılıç Reis Mahallesi,Kat irtifakı,Betonarme,75,3+1,2,31 ve üzeri,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3058,880.000,Elazığ,Elazığ ( Merkez ),27/04/23,Kültür Mahallesi,arsa mulkiyetli,-,110,2+1,1,0,11,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3111,3.450.000,Yalova,Armutlu,02/05/23,Bayır Mahallesi,-,-,125,3+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3399,2.250.000,İzmir,Seferihisar,27/06/23,Gödence Mahallesi,Tek tapu,Taş,143,2+1,1,31 ve üzeri,1,Soba,Evet,Sahibinden,Hayır
+3329,3.000.000,İstanbul (Asya),Sancaktepe,14/06/23,Atatürk Mahallesi,kat mülkiyet,5,152,3+1,1,5-10 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2613,2.650.000,İstanbul (Asya),Pendik,15/03/23,Şeyhli Mahallesi,Kat mülkiyetli,Betonarme,90,3+1,1,,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+3214,3.500.000,İzmir,Menemen,23/06/23,Ahıhıdır Mahallesi,kat irtifakı,betonarme,135,3+1,2,0,9,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2371,3.280.000,İstanbul (Avr),Esenyurt,28/02/23,Namık Kemal Mahallesi,İrtifak,2.El,143,3+1,2,4,39,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+2465,2.600.000,İstanbul (Avr),Eyüp,01/03/23,Sakarya Mahallesi,kat mülkiyet,tamamlanmıs,95,2+1,1,11-15 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2895,1.725.000,İstanbul (Avr),Esenyurt,05/05/23,Mehterçeşme Mahallesi,EVET,-,89,2+1,2,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,
+2481,3.350.000,İstanbul (Avr),Esenyurt,04/03/23,Namık Kemal Mahallesi,İrtifak,2.El,143,3+1,2,3,24,Merkezi Sistem,Evet,Sahibinden,Evet
+2488,3.750.000,İstanbul (Avr),Gaziosmanpaşa,05/03/23,Karadeniz Mahallesi,Kat irtifakı,Betonarme,190,5+2,2,16-20 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3390,1.200.000,Konya,Karatay,24/06/23,Çelebi Mahallesi,-,-,167,3+1,1,0,-,Merkezi Sistem,,Sahibinden,Evet
+2476,2.650.000,İstanbul (Avr),Esenyurt,02/03/23,Saadetdere Mahallesi,Mülkiyet,2.El,115,2+1,1,4,22,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+3391,4.250.000,Yalova,Çınarcık,24/06/23,Harmanlar Mahallesi,var,-,330 brüt 300 net,5+2,2,26-30 arası,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3400,600.000,Malatya,Battalgazi,28/06/23,İstiklal Mahallesi,Kat irtifak,Betonörme,120,3+1,1,31 ve üzeri,6,Soba,Evet,Emlak Ofisi,Hayır
+2591,1.750.000,İstanbul (Avr),Esenyurt,14/03/23,Merkez Mahallesi,İrtifak,2.El,100,2+1,1,5-10 arası,10,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2466,9.450.000,Antalya,Muratpaşa,16/03/23,Meltem Mahallesi,Kat irtifakı,-,180,3+1,1,16-20 arası,17,Klima,Evet,Sahibinden,Hayır
+2590,4.500.000,Muğla,Milas,14/03/23,Bozbük Mahallesi,iskan,betonarme,220,4+1,2,11-15 arası,3,Klima,Evet,Sahibinden,Hayır
+2632,10.000.000,Denizli,Pamukkale,19/03/23,Deliktaş Mahallesi,Müstakil,-,420,3+1,1,31 ve üzeri,3,Klima,Evet,Sahibinden,Hayır
+2615,3.000.000,Aydın,Efeler,15/03/23,Efeler Mahallesi,KAT İRTİFAKI,-,140,3+1,1,2,5,Yerden Isıtma,Evet,Sahibinden,Evet
+2707,1.100.000,Balıkesir,Gönen,26/03/23,Kurtuluş Mahallesi,Kat Mülkiyeti,2. El,125,3+1,1,21-25 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+688,720.000,Ankara,Çubuk,19/03/23,Yavuzselim Mahallesi,Kat irtifakı Tapulu,Oturulabilir.,120,3+1,1,16-20 arası,5,Doğalgaz Sobası,Evet,Sahibinden,Hayır
+2782,1.950.000,İstanbul (Avr),Çatalca,29/03/23,Ferhatpaşa Mahallesi,-,-,80,2+1,1,4,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2746,8.500,Antalya,Muratpaşa,28/03/23,Meydankavağı Mahallesi,Sahibi,Betonarme,200,3+1,2,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2247,950.000,Denizli,Pamukkale,02/02/23,Asmalıevler Mahallesi,Müstakil,Betonarme,60,1+1,1,3,2,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+2627,1.250.001,Van,Edremit,18/03/23,Erdemkent Mahallesi,Var,Bina,130,3+1,1,16-20 arası,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2216,5.250.000,Balıkesir,Burhaniye,28/01/23,Pelitköy Mahallesi,Kat Mülkiyeti,Sıfır,140,3+1,3,0,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2484,5.400.000,İstanbul (Avr),Avcılar,05/03/23,Yeşilkent Mahallesi,Hisseli,-,182,3+1,1,16-20 arası,5,Soba,,Sahibinden,Hayır
+2224,4.000.000,Balıkesir,Ayvalık,30/01/23,Sakarya Mahallesi,Kat Mülkiyeti,Sıfır,125,2+1,1,0,2,Klima,Evet,Emlak Ofisi,Hayır
+2624,2.750.000,İstanbul (Avr),Esenyurt,18/03/23,Yeşilkent Mahallesi,Mülkiyet,2.El,110,2+1,1,4,23,Merkezi Sistem,Evet,Emlak Ofisi,Evet
+2222,7.250.000,Balıkesir,Burhaniye,30/01/23,Pelitköy Mahallesi,Kat Mülkiyeti,Sıfır,210,4+2,3,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2231,4.750.000,İstanbul (Avr),Zeytinburnu,31/01/23,Seyitnizam Mahallesi,DAİRE TAPULU,-,117,3+1,2,0,6,Yerden Isıtma,Evet,Sahibinden,Hayır
+2241,2.300.000,Antalya,Aksu,01/02/23,Macun Mahallesi,-,-,130,3+1,1,3,3,Klima,Hayır,Emlak Ofisi,Hayır
+2524,2.500.000,İstanbul (Asya),Maltepe,09/03/23,Altayçeşme Mahallesi,Tapulu,-,75,2+1,1,31 ve üzeri,4,Klima,,Sahibinden,
+2221,2.450.000,İzmir,Torbalı,29/01/23,Fevzi Çakmak Mahallesi,Katirtifaki,-,240,3+1,2,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1905,800.000,Sinop,Ayancık,31/01/23,Cevizli Mahallesi,tapulu,-,90,2+1,1,26-30 arası,3,Soba,Evet,Sahibinden,Hayır
+2242,1.820.000,İstanbul (Avr),Küçükçekmece,01/02/23,Kanarya Mah.,KAT MÜLKİYETLİ,BETONARME,90,2+1,1,5-10 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2253,1.250.000,İstanbul (Avr),Beylikdüzü,03/02/23,Beylikdüzü OSB,Kat Mülkiyetli,-,100,2+1,1,0,4,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+2250,7.000.000,Adana,Çukurova,03/02/23,Mahfesığmaz Mahallesi,Kat irtifakı,Betonerme,300,5+1,3,5-10 arası,10,Doğalgaz (Kombi),Evet,Sahibinden,
+2252,1.800.000,İstanbul (Avr),Esenyurt,03/02/23,Atatürk Mahallesi,Kat Mülkiyetli,-,110,2+1,1,0,30,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2329,3.000.000,Edirne,Havsa,16/02/23,Hacıgazi Mahallesi,-,-,285,2+1,3,16-20 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2331,2.550.000,İstanbul (Avr),Esenyurt,17/02/23,Namık Kemal Mahallesi,",",2.El,115,2+1,1,4,24,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+2255,1.250.000,Bolu,Merkez,03/02/23,Sağlık Mahallesi,Kat Mülkiyeti,Daire,96,2+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2343,2.550.000,Samsun,Atakum,18/02/23,Büyükoyumca Mahallesi,-,-,220,4+1,2,5-10 arası,10,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2293,1.349.000,Yalova,Merkez,11/02/23,Adnan Menderes Mahallesi,İrtifak,8 yaş,75,2+1,1,,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2276,3.750.000,Balıkesir,Burhaniye,07/02/23,Pelitköy Mahallesi,Kat mülkiyetli,Betonarme,115 m,3+1,2,16-20 arası,2,Soba,Evet,Sahibinden,Hayır
+1978,1.200.000,İstanbul (Avr),Arnavutköy,18/12/22,Anadolu Mahallesi,Kat mülkiyeti,1,85,2+1,1,1,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1984,2.800.000,Aydın,Kuşadası,20/12/22,Türkmen Mahallesi,SAHİBİNDEN KAT MÜLKİYETLİ SORUNSUZ,İYİ,130 M,2+2,1,16-20 arası,5,Klima,Hayır,Sahibinden,Hayır
+2001,1.100.000,Malatya,Battalgazi,21/12/22,Zafer Mahallesi,Sahibinden,Kullanışlı,400,5+1,2,11-15 arası,4,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+2254,980.000,İstanbul (Avr),Esenyurt,03/02/23,,Kat Mülkiyetli,-,85,2+1,1,0,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2340,2.850.000,Çorum,Merkez,18/02/23,Bahçelievler Mahallesi,-,-,165,4+1,1,0,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2021,2.500.000,Eskişehir,Tepebaşı,27/12/22,Şarhöyük Mahallesi,Müstakil,-,"176,21",3+1,,,-,,,Sahibinden,Hayır
+2090,1.000.000,Kahramanmaraş,Dulkadiroğlu,05/01/23,Yeni Şehir Mahallesi,KAT İRTİFAKI,Eski yapı,550.05 BRÜT NET 100,5+1,1,26-30 arası,7,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+2215,3.550.000,Balıkesir,Ayvalık,28/01/23,Küçükköy Mahallesi,Kat İtrifakı,İkinci El,200,3+1,2,16-20 arası,3,Klima,Evet,Emlak Ofisi,Hayır
+1779,940.000,Hatay,Antakya‎,29/12/22,Odabaşı Mahallesi,MÜSTAKİL,-,113+2  = 115,2+1,1,5-10 arası,7,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+2132,1.150.000,İstanbul (Avr),Esenyurt,12/01/23,Namık Kemal Mahallesi,Kat itifakli,Sıfır bina,100,2+1,,1,10,Merkezi Sistem,Evet,Sahibinden,Hayır
+2098,7.000.000,İstanbul (Asya),Beykoz,07/01/23,Anadolu Hisarı Mahallesi,Hisseli,Bina,190,3+1,2,21-25 arası,1,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1349,1.850.000,Şanlıurfa,Eyyübiye,16/01/23,Haleplibahçe Mahallesi,var,Betonarme,135,3+1,1,4,4,Soba,Hayır,Sahibinden,Hayır
+2110,1.465.000,İzmir,Torbalı,08/01/23,Atatürk Mahallesi,Kat irtifaki,Bina,130,3+1,1,2,2,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2112,1.850.000,İzmir,Torbalı,08/01/23,Fevzi Çakmak Mahallesi,Kat irtifaki,Bina,130,3+1,2,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2076,7.000.000,İstanbul (Asya),Beykoz,03/01/23,Anadolu Hisarı Mahallesi,Hisseli,-,190,3+1,2,21-25 arası,1,Doğalgaz (Kombi),,Sahibinden,Hayır
+2111,1.250.000,İzmir,Torbalı,08/01/23,İnönü Mahallesi,Kat irtifaki,Bina,85,2+1,1,0,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2156,1.900.000,Antalya,Kepez,16/01/23,Kütükçü Mahallesi,Kat irtifakı,Sıfır,90,2+1,2,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1914,3.250.000,Aydın,Didim,14/12/22,Akbük Mahallesi,KAT MÜLKİYETİ,KULLANILMIŞ,140,3+1,2,5-10 arası,2,Klima,Evet,Emlak Ofisi,Hayır
+1812,3.850.000,İzmir,Torbalı,31/10/22,Fevzi Çakmak Mahallesi,Katmülkiyeti,Betonarme,560,5+1,2,11-15 arası,2,Klima,Evet,Sahibinden,Hayır
+2175,2.400.000,İzmir,Torbalı,21/01/23,Fevzi Çakmak Mahallesi,Kat irtıfakı,-,220,3+1,2,5-10 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1830,1.580.000,İzmir,Çiğli,05/11/22,Atatürk Mahallesi,Mülkiyet,-,130,3+1,1,16-20 arası,10,Doğalgaz (Kombi),,Sahibinden,Hayır
+1841,1.545.000,Tekirdağ,Marmaraereğlisi,09/11/22,Yeniçiftlik Mahallesi,KAT İRTİFAKLI,BETONARME,165,2+1,2,0,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+2151,2.400.000,İzmir,Torbalı,18/01/23,Fevzi Çakmak Mahallesi,Katirtifaki,-,220,3+1,2,5-10 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1722,1.750.000,Mersin,Silifke,02/11/22,Taşucu Mahallesi,kat mülkiyeti,betonarme,110,3+1,1,21-25 arası,2,Klima,Evet,Sahibinden,Hayır
+1820,4.000,Ankara,Keçiören,03/11/22,Şenlik Mahallesi,-,-,130,3+1,1,,-,,,,
+1861,1.860.000,Muğla,Ortaca,11/11/22,Bahçelievler Mahallesi,MÜSTAKİL,DAİRE,145,3+1,2,4,4,Klima,Evet,Emlak Ofisi,Hayır
+2163,850.000,Eskişehir,Tepebaşı,19/01/23,Uluönder Mahallesi,Kat Mülkiyetli,2.El,75,1+1,1,11-15 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1961,620.000,Diyarbakır,Yenişehir,16/01/23,Üçkuyu  Mahallesi,TOKI,TOKI,65,2+1,1,5-10 arası,10,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1855,1.625.000,Muğla,Ortaca,11/11/22,Karaburun Mahallesi,MÜSTAKİL,DAİRE,118,3+1,1,0,2,Klima,Hayır,Emlak Ofisi,Hayır
+1501,1.000.000,Adana,İmamoğlu,27/08/22,Hürriyet Mahallesi,Var,18,115,4+1,1,16-20 arası,2,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+1860,1.150.000,Muğla,Ortaca,11/11/22,Karaburun Mahallesi,MÜSTAKİL,1,60,1+1,1,0,"1,2,3,4",Klima,Hayır,Emlak Ofisi,Hayır
+1507,4.295.000,Tokat,Merkez,31/08/22,Karşıyaka Mahallesi,Kat Mülkiyetli,-,-,5+1,3,16-20 arası,3,Doğalgaz Sobası,Hayır,Sahibinden,Hayır
+1523,300.000,Edirne,Keşan,03/09/22,Yukarı Zaferiye Mahallesi,Kat Mülkiyetli,-,60,1+1,1,16-20 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+1895,620.000,Ankara,Etimesgut,20/11/22,Topçu Mahallesi,KAT MÜLKİYETLİ,İKİNCİ EL,100,2+1,1,11-15 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1859,5.250.000,Denizli,Acıpayam,11/11/22,Aşağı Mahallesi,MÜSTAKİL,VİLLA,403,6+2,3,4,5,Klima,Evet,Emlak Ofisi,Hayır
+1526,420.000,Ankara,Mamak,06/09/22,General Zeki Doğan Mahallesi,kat mülküyeti,bina,90,2+1,1,,5,,Evet,Sahibinden,Hayır
+1549,500.000,,,09/09/22,,Müstakil,1996,90,,,,4,,,,
+1547,500.000,,,09/09/22,,Müstakil,1996 yapım,90,,,,4,,,,
+916,8.500.000,Aydın,Kuşadası,17/09/22,Yeniköy Mahallesi,Arsa tapulu,-,120,3+1,2,0,1,Yerden Isıtma,Evet,Sahibinden,Evet
+1638,340.000,Aydın,Kuşadası,22/09/22,Güzelçamlı Mahallesi,-,-,60,1+1,1,0,2,,Evet,İnşaat Firması,Evet
+1637,340.000,Sakarya,Sapanca,22/09/22,Göl Mahallesi,-,-,60,1+1,1,0,2,Klima,Evet,İnşaat Firması,Evet
+1639,340.000,Tekirdağ,Şarköy,22/09/22,,-,-,60,1+1,1,0,2,,Evet,İnşaat Firması,Evet
+1645,1.360.000,Ankara,Mamak,23/09/22,Derbent Mahallesi,Tapulu,-,125,3+1,2,5-10 arası,16,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1643,480.000,Ankara,Mamak,23/09/22,Kusunlar Mahallesi,Devirli,Tamam,85,2+1,1,11-15 arası,11,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+1856,1.325.000,Muğla,Ortaca,11/11/22,Cumhuriyet Mahallesi,MÜSTAKİL,DAİRE,92,2+1,1,5-10 arası,3,Klima,Hayır,Emlak Ofisi,Hayır
+1508,810.000,İstanbul (Avr),Kağıthane,31/08/22,Gültepe Mahallesi,hisseli,1993,70,2+1,1,26-30 arası,5,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+846,4.000.000,Antalya,Konyaaltı,29/06/22,Öğretmenevleri Mahallesi,KAT İRTİFAK,2.EL,170,3+1,2,21-25 arası,9,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+850,1.325.000,Antalya,Manavgat,26/06/22,Side Mahallesi,KAT İRTİFAK,SIFIR,90,2+1,1,11-15 arası,3,Klima,Evet,Emlak Ofisi,Hayır
+913,1.300.000,Kayseri,Develi,22/06/22,Cumhuriyet Mahallesi,bizde,-,-,3+1,2,3,4,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+907,1.100.000,İzmir,Tire,21/06/22,İstiklal Mahallesi,-,-,-,3+1,1,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+957,1.550.000,İstanbul (Avr),Esenyurt,02/07/22,Mehterçeşme Mahallesi,KAT İRTİFAKI,İKİNCİ EL,148,2+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+926,990.000,Ankara,Keçiören,27/06/22,Şehit Kubilay Mahallesi,Var,Sifir,155,3+1,2,0,16,Doğalgaz (Kombi),Evet,İnşaat Firması,Evet
+958,1.550.000,İstanbul (Avr),Şişli,03/07/22,H.Edip Adıvar Mahallesi,Arsa tapulu,-,90,2+1,1,11-15 arası,5,Doğalgaz Sobası,Hayır,Sahibinden,
+1061,55.000,Aydın,Didim,06/07/22,Efeler Mahallesi,KAT MÜLKİYETİ,BETONARME,50,1+1,1,5-10 arası,3,Klima,,Sahibinden,Hayır
+928,750.000,Muğla,Bodrum,27/06/22,Güvercinlik Mahallesi,VAR,BETONARME,302,3+1,2,21-25 arası,2,Kat Kaloriferi,Evet,Sahibinden,Hayır
+1066,700.000,İstanbul (Asya),Ümraniye,07/07/22,Esenevler Mahallesi,-,-,130,3+1,1,5-10 arası,8,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1059,1.000.000,Konya,Karatay,06/07/22,Çatalhüyük Mahallesi,Kat ittifaki,Yeni bina,100 net,2+1,1,1,2,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1101,525.000,Yalova,Çınarcık,12/07/22,Cumhuriyet Mahallesi,Kat mülkiyeti,Betonarme,65,,,,5,,,,
+1230,320.000,,,25/07/22,,-,-,1022,,,,-,,,,
+1260,370.000,Van,Edremit,27/07/22,,HAZIR,-,85,2+1,1,5-10 arası,-,Doğalgaz Sobası,Evet,Emlak Ofisi,Hayır
+1204,340.000,Manisa,Soma,20/07/22,Hamidiye Mahallesi,Tapu var,Betonarme,90,2+1,1,16-20 arası,5,Soba,Hayır,Sahibinden,Hayır
+1280,2.100.000,Antalya,Aksu,29/07/22,Altıntaş Mahallesi,tapulu,sıfır,-,1+1,1,0,-,,,Emlak Ofisi,
+1492,2.800.000,Aydın,Efeler,23/08/22,Efeler Mahallesi,KAT MÜLKİYETİ,BOŞ,160,3+1,1,21-25 arası,2,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+1261,1.300.000,Van,İpekyolu,01/08/22,Şerefiye Mahallesi,HAZIR,-,-,3+1,1,0,5,Doğalgaz Sobası,,,
+1103,900.000,Muğla,Yatağan,19/08/22,Eskihisar Mahallesi,Arsa tapulu,İyi,882,3+1,1,16-20 arası,1,Soba,Hayır,Sahibinden,Hayır
+1458,199.000,Balıkesir,Erdek,15/08/22,,Depo-Bodrumkat,Kaba Insaat,8/160,,Yok,21-25 arası,5,Yok,Hayır,Sahibinden,Hayır
+1662,1.480.000,Ankara,Etimesgut,28/09/22,Eryaman Mahallesi,KAT MÜLKİYETLİ,BETONARME,130,3+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1392,2.750.000,İstanbul (Asya),Üsküdar,06/08/22,Bahçelievler Mahallesi,KAT MÜLKİYETLİ HİSSESİZ,İYİ,120 M2  BRÜT,2+1,1,16-20 arası,6,Kat Kaloriferi,,Sahibinden,
+1690,2.500.000,İstanbul (Avr),Fatih,06/10/22,İskenderpaşa Mahallesi,Var,İkinci El,120,2+2,2,31 ve üzeri,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1691,1.300.000,Kocaeli,Körfez,06/10/22,Fatih Mahallesi,Tapusu var,İmarlı,130 m 2,3+1,2,5-10 arası,2,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+671,349.900,İstanbul (Avr),Beyoğlu,07/05/22,Küçük Piyale Mahallesi,Kat mülkiyetli,Var,80,2+1,2,26-30 arası,4,Yok,Hayır,Sahibinden,Hayır
+1211,2.750,Kayseri,Melikgazi,25/07/22,Becen Mahallesi,Kat irtifakı bagimsiz,Sifir,155,3+1,2,0,2,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+669,820.000,Ankara,,05/05/22,,Kat mulkiyeti,Rezidans,90,,,,11,,,,
+1487,2.270.000,İstanbul (Asya),Pendik,23/08/22,Yenişehir Mahallesi,Kat mülkiyeti,Daire,-,3+1,1,11-15 arası,8,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+746,650.000,Mersin,Yenişehir,20/05/22,Palmiye Mahallesi,Kat,Sıfır,55 net,1+1,1,0,5,Yok,Evet,Sahibinden,Hayır
+660,3.750.000,,,30/04/22,,Kat mülkiyeti,Betonarme,173,,,,7,,,,
+675,349.900,İstanbul (Avr),Beyoğlu,07/05/22,Küçük Piyale Mahallesi,Kat mülkiyetli,Var,80,2+1,2,26-30 arası,4,Yok,Hayır,Sahibinden,Hayır
+747,570.000,Adıyaman,Gölbaşı,20/05/22,Hürriyet Mahallesi,kat mülkiyeti,daire,110,2+1,1,0,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+694,850.000,Diyarbakır,Kayapınar,12/05/22,Barış  Mahallesi,Kat mülkiyeti,Kiracilı,200,3+1,,5-10 arası,8,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+745,1.350.000,Mersin,Yenişehir,20/05/22,Bahçelievler Mahallesi,Kat,İkinci el,60 net,1+1,1,5-10 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+761,589.000,,,24/05/22,,Sahibinden,16,140,,,,4,,,,
+789,520.000,Samsun,Bafra,01/06/22,Kavakpınar Mahallesi,var,iyi,160,4+1,1,,5,Kat Kaloriferi,Evet,Sahibinden,Hayır
+1347,2.100.000,,,01/08/22,,Kat mülkiyeti,"40 yil ve sonrasına ait, betonarme",120,,,,4,,,,
+740,1.150.000,Diyarbakır,Bağlar,24/05/22,Bağcılar Mahallesi,2.el,10 ay,Net 135,3+1,2,0,7,Merkezi Sistem,Evet,Sahibinden,
+842,750.000,Zonguldak,Kozlu,08/06/22,19 Mayıs Mahallesi,Kat mülkiyeti,Yapılıyor,57,2+1,1,0,9,Yerden Isıtma,Evet,Sahibinden,
+790,1.380.000,İstanbul (Avr),Bahçelievler,01/06/22,Kocasinan Merkez Mah.,Kat ittifaklı,13,120,2+1,1,11-15 arası,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+775,1.000.000,Van,İpekyolu,29/05/22,Alipaşa Mahallesi,Kat mülkiyetli,Bitmist,160,3+1,1,3,7,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+153,400.000,Ankara,Yenimahalle,20/01/22,Demetlale Mahallesi,İmarlı,Kombili,125,3+1,1,31 ve üzeri,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+766,3.000.000,Ankara,Yenimahalle,25/05/22,Uğur Mumcu Mahallesi,KAT MÜLKİYETİ,YENİ,190,3+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+150,695.000,Düzce,Merkez,20/01/22,Nusrettin Mahallesi,Müstakil,Kat mülkiyeti,110,3+1,2,2,3,Kat Kaloriferi,Evet,Sahibinden,Evet
+342,550,İstanbul (Avr),Esenyurt,06/03/22,Mehterçeşme Mahallesi,Var,Yeni bina,75 metrekare,1+1,1,3,Yüksek giriş,Doğalgaz Sobası,Evet,Sahibinden,Hayır
+275,2.500.000,Aydın,Didim,22/02/22,Çamlık Mahallesi,Süper,İyi,170,3+1,2,0,3,,Evet,İnşaat Firması,Hayır
+390,710.001.000,Erzurum,Palandöken,18/03/22,Hüseyin Avni Ulaş Mahallesi,Tapu hazır,-,135,3+1,2,0,7,Merkezi Sistem,Evet,İnşaat Firması,Hayır
+274,2.500.000,Aydın,Didim,22/02/22,Çamlık Mahallesi,Iyi,Iyi,170,3+1,2,0,3,,Evet,Emlak Ofisi,Hayır
+444,1.700.000,Adana,Yüreğir,29/03/22,P.T.T Mahallesi,Müstakil,Müstakil,268m2,3+1,1,11-15 arası,3,,Evet,Sahibinden,Hayır
+590,2.900.000,Antalya,Konyaaltı,13/04/22,Hurma Mahallesi,-,bet,170,3+1,2,5-10 arası,4,Klima,Evet,Emlak Ofisi,Hayır
+318,98.000,İzmir,,12/04/22,,Tek,Taş dolu tuğla,240,1+1,Yok,31 ve üzeri,Müstakil,Soba,Hayır,Emlak Ofisi,Hayır
+414,190.000,Kars,Kars (il merkezi),21/03/22,Yenişehir Mahallesi,Hazır,İyi,85,2+1,1,4,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+427,938.000,Ankara,Mamak,24/03/22,Altınevler Mahallesi,Kat Maliki,Sıfır hiç kullanılmamış,90,2+1,2,0,15,Merkezi Sistem,Evet,Sahibinden,Evet
+595,7.500.000,Antalya,Konyaaltı,13/04/22,Kuşkavağı Mahallesi,KAT İRTİFAK,BET,180,3+1,2,16-20 arası,9,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+574,2.800.000,Antalya,Konyaaltı,13/04/22,Hurma Mahallesi,DUBLEX DAİRE,bet,210,4+1,2,11-15 arası,4,,Evet,Emlak Ofisi,Hayır
+280,2.000.000,İstanbul (Asya),Ümraniye,23/02/22,Cemil Meriç Mahallesi,Kat mülkiyeti,Betonarme,115,3+1,2,11-15 arası,10,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+623,975.000,İstanbul (Avr),Küçükçekmece,20/04/22,Gültepe Mah.,Kat itifakli,Beton arme,80,2+1,1,0,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+524,1.350.000,Şanlıurfa,Karaköprü,09/04/22,Akpınar Mahallesi,-,-,170,4+1,2,0,8,Doğalgaz (Kombi),Evet,Emlak Ofisi,
+593,4.750.000,Antalya,Konyaaltı,13/04/22,Kuşkavağı Mahallesi,KAT İRTİFAK,bet,105,2+1,2,16-20 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+854,600.000,Sakarya,Karasu,10/06/22,İncilli Mahallesi,Kat irtifak,Betonarme,110,2+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+631,1.150.000,İstanbul (Avr),Esenyurt,21/04/22,Örnek Mahallesi,Kat İrtifaklı,-,125,3+1,2,0,8,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+849,2.400.000,Antalya,Konyaaltı,09/06/22,Öğretmenevleri Mahallesi,KAT İRTİFAK,SIFIR,185,4+1,2,11-15 arası,3,Güneş Enerjisi,Evet,Emlak Ofisi,Hayır
+646,799.000,Mersin,Yenişehir,27/04/22,Afetevler Mahallesi,VAR,-,90,1+1,1,4,8,Klima,Evet,Sahibinden,Hayır
+852,3.170.000,Antalya,Muratpaşa,13/06/22,Güzeloba Mahallesi,KAT İRTİFAK,SIFIR,170,3+2,2,2,2,Klima,Evet,Emlak Ofisi,Hayır
+597,3.250.000,Antalya,Konyaaltı,15/06/22,Gürsu Mahallesi,KAT İRTİFAK,BETORNAME,170,3+1,2,11-15 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+876,6.550.000,Çanakkale,Lapseki,16/06/22,Gazi Süleyman Paşa Mahallesi,KAT İRTİFAK,SIFIR,230,3+1,2,5-10 arası,7,Klima,Evet,Emlak Ofisi,Hayır
+863,900.000,Antalya,Muratpaşa,16/06/22,Tahılpazarı Mahallesi,KAT İRTİFAK,2.EL,105,2+1,1,26-30 arası,4,Yok,Evet,Emlak Ofisi,Hayır
+865,7.250.000,Antalya,Konyaaltı,13/06/22,Uncalı Mahallesi,KAT İRTİFAK,SIFIR,150,3+1,2,1,6,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+860,900.000,İstanbul (Avr),Silivri,15/06/22,Sancaktepe Mahallesi,Kat irtifakı,2011,130,3+1,1,5-10 arası,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1716,1.750.000,İstanbul (Avr),Esenyurt,12/10/22,Namık Kemal Mahallesi,Mülkiyet,2.El,76,1+1,1,4,24,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+1768,5.000.000,İzmir,Urla,19/10/22,Kuşçular Mahallesi,Yapı kayıt belgeli,Sıfır,160,5+1,2,0,2,Güneş Enerjisi,Hayır,Sahibinden,Evet
+908,200.000,İzmir,Tire,21/06/22,Arslanlar Mahallesi,-,-,130,2+1,1,31 ve üzeri,1,Soba,Evet,Emlak Ofisi,Evet
+1733,930.000,İstanbul (Avr),Silivri,16/10/22,Yeni Mahallesi,kat mülkiyeti,betorname,80,2+1,1,21-25 arası,6,Doğalgaz (Kombi),,Emlak Ofisi,Hayır
+624,135.000,Balıkesir,Dursunbey,18/04/22,Ayvacık Mahallesi,Mustakil,İmarli,82,3+2,1,31 ve üzeri,2,Soba,Evet,Sahibinden,Evet
+1807,650.000,Aksaray,Merkez,30/10/22,Tacin Mahallesi,Ev sahibi,Yeni,-,1+1,1,0,6,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1801,400.000,Bursa,Osmangazi,29/10/22,Nalbantoğlu Mahallesi,Kat mülkiyeti,-,180,2+1,2,5-10 arası,5,Yok,Evet,Sahibinden,Hayır
+1908,1.330.000,İstanbul (Avr),Zeytinburnu,29/11/22,Sümer Mahallesi,Var.,-,65,2+1,1,21-25 arası,4,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1777,15.000.000,Sakarya,Serdivan,21/10/22,Esentepe Mahallesi,VAR,İNŞA HALİNDE,750,7+1,4,0,2,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+839,2.250.000,İstanbul (Avr),Eyüp,20/10/22,Alibeyköy Mahallesi,Tapu Tahsisi Belgeli,-,-,2+1,1,21-25 arası,8,Doğalgaz (Kombi),,Sahibinden,Hayır
+1894,825.000,Ankara,Etimesgut,20/11/22,Topçu Mahallesi,KAT MÜLKİYETLİ,İKİNCİ EL,95,2+1,1,11-15 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1727,2.470.000,İstanbul (Avr),Bahçelievler,07/12/22,Şirinevler Mah.,kat iltifaklı,betoname,135,3+1,1,11-15 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1942,3.600.000,İstanbul (Asya),Pendik,07/12/22,Bahçelievler Mahallesi,-,-,150,3+1,3,16-20 arası,4,Doğalgaz (Kombi),Hayır,Sahibinden,Evet
+1949,3.550.000,İstanbul (Avr),Esenyurt,10/12/22,Talatpaşa Mahallesi,sahibinden,apartman,110,3+1,1,5-10 arası,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+1945,5.850.000,Tekirdağ,Şarköy,08/12/22,İstiklal Mahallesi,Mustakil,Sıfır,380,4+1,3,0,2,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+1909,2.700.000,Aydın,Didim,14/12/22,Akbük Mahallesi,KAT MÜLKİYETİ,KULLANILMIŞ,110,3+1,2,5-10 arası,2,Klima,Evet,Emlak Ofisi,Hayır
+1911,9.950.000,Aydın,Didim,14/12/22,Akbük Mahallesi,KAT İRTİFAKI,SIFIR,150,4+1,3,0,2,Klima,Evet,Emlak Ofisi,Evet
+1715,1.700.000,İstanbul (Avr),Esenyurt,12/10/22,Namık Kemal Mahallesi,İrtifak,2.El,73,1+1,1,4,39,Merkezi Sistem,Evet,Emlak Ofisi,Evet
+1912,5.500.000,Aydın,Didim,14/12/22,Efeler Mahallesi,KAT MÜLKİYETİ,SIFIR,160,3+1,3,0,2,Klima,Evet,Emlak Ofisi,Hayır
+1726,1.370.000,İstanbul (Avr),Bahçelievler,07/12/22,Siyavuşpaşa Mah.,kat iltifaklı,betoname,135,3+1,1,11-15 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+1913,10.500.000,Aydın,Didim,14/12/22,Akbük Mahallesi,KAT MÜLKİYETİ,KULLANILMIŞ,320,5+1,4,5-10 arası,2,Klima,Evet,Emlak Ofisi,Hayır
+1910,7.500.000,Aydın,Didim,14/12/22,Akbük Mahallesi,KAT MÜLKİYETİ,KULLANILMIŞ,280,4+1,3,5-10 arası,2,Klima,Evet,Emlak Ofisi,Hayır
+2185,1.325.000,Konya,Karatay,23/01/23,Karaaslandede Mahallesi,Tapu,İmarlı,165,3+1,1,0,2,Doğalgaz (Kombi),Evet,Sahibinden,
+2178,1.750.000,Ankara,Keçiören,21/01/23,Kavacık Subayevleri Mahallesi,Müstakil,Betonarme,100,3+1,1,21-25 arası,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2189,2.000.000,İstanbul (Avr),Avcılar,24/01/23,Firuzköy Mahallesi,KAT MÜLKİYETİ,-,74,1+1,1,5-10 arası,14,Kat Kaloriferi,Evet,Sahibinden,Hayır
+2176,2.400.000,İzmir,Torbalı,21/01/23,Fevzi Çakmak Mahallesi,Kat irtifak,-,220,3+1,2,5-10 arası,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2388,1.750.000,Antalya,Kaş,22/02/23,Çeşme Mahallesi,Kat mülkiyeti,Beton arma,98,2+1,2,2,7,,Evet,Sahibinden,
+2783,3.750.000,İstanbul (Avr),Çatalca,29/03/23,Ferhatpaşa Mahallesi,-,sıfır,135,3+1,1,5-10 arası,4,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2032,9.750.000,Mersin,Toroslar,26/01/23,Korukent Mahallesi,KAT İNTİFAKLI,-,526,4+1,1,5-10 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+2650,5.450.000,Ankara,Yenimahalle,06/04/23,Turgut Özal Mahallesi,Var,-,185,4+1,2,3,17,Merkezi Sistem,,Sahibinden,Hayır
+2198,120.000,Ankara,Mamak,25/01/23,Şahintepe Mahallesi,Katmulkiyeti,15,110,3+1,1,16-20 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+2462,3.280.000,İstanbul (Avr),Esenyurt,28/02/23,Merkez Mahallesi,İrtifak,2.El,143,3+1,2,4,39,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+2022,1.280.000,Tekirdağ,Çerkezköy,18/02/23,Kızılpınar Mahallesi,-,-,143,3+1,3,5-10 arası,11,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+2800,4.000.000,İstanbul (Asya),Kartal,06/07/23,Atalar Mahallesi,Kat Mülkiyeti,-,130,3+1,1,21-25 arası,7,Doğalgaz (Kombi),,Sahibinden,
+2745,1.600,Çanakkale,Gelibolu,07/04/23,Yazıcızade Mahallesi,tapulu,Bahçeli kagir,160,2+1,1,31 ve üzeri,2,Soba,,Sahibinden,Hayır
+3436,660.000,Adana,Sarıçam‎,07/07/23,Osmangazi Mahallesi,Kat mülkiyeti,Betonarme,60,1+1,1,4,8,Doğalgaz (Kombi),Evet,Sahibinden,Evet
+3709,3.500.000,Uşak,Merkez,27/08/23,Fatih Mahallesi,hazır,betonarme,196,4+1,3,5-10 arası,9,Merkezi Sistem,Evet,Sahibinden,Hayır
+3953,21.000.000,Balıkesir,Ayvalık,30/09/23,Küçükköy Mahallesi,-,-,275,3+1,2,21-25 arası,3,Klima,Evet,Emlak Ofisi,Evet
+3952,23.990.000,Balıkesir,Ayvalık,30/09/23,Mithatpaşa Mahallesi,-,-,400,4+2,3,21-25 arası,3,Merkezi Sistem,Evet,Emlak Ofisi,Evet
+3437,4.850.000,Bursa,Gürsu,07/07/23,Zafer Mahallesi,Kat mülkiyeti,Bitmiş,210,5+1,2,5-10 arası,3,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3987,10.000.000,Balıkesir,Gömeç,05/10/23,Yaya Mahallesi,-,-,192,3+1,3,0,3,Yerden Isıtma,Evet,Emlak Ofisi,Evet
+3984,3.150.000,İstanbul (Avr),Esenyurt,04/10/23,Güzelyurt Mahallesi,İrtifak,2.El,143,3+1,2,4,22,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+4005,2.900.000,Tekirdağ,Çorlu,06/10/23,Muhittin Mahallesi,Kat Mülkiyetli,Sıfır,145,3+1,2,0,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+3955,17.500.000,Balıkesir,Ayvalık,30/09/23,Namık Kemal Mahallesi,-,-,185,3+2,2,11-15 arası,3,,Evet,Emlak Ofisi,Evet
+4011,12.750.000,Muğla,Milas,07/10/23,Meşelik Mahallesi,Var,-,250,,,,2,,,,
+4037,10.000.000,İzmir,Karaburun,10/10/23,Mordoğan Mahallesi,Müstakil,Betonarme,130,3+1,1,26-30 arası,2,,Evet,Sahibinden,Hayır
+4031,2.500.000,İstanbul (Avr),Esenyurt,10/10/23,İstiklal Mahallesi,İrtifakli,İkinci el,170,3+2,2,5-10 arası,4,Doğalgaz (Kombi),Evet,,Evet
+3983,2.250.000,İzmir,Menemen,04/10/23,85.Yıl Cumhuriyet Mahallesi,Kat irtifaklı,Betonarme,85,2+1,1,0,3,Doğalgaz (Kombi),,Sahibinden,Hayır
+4700,5.750.000,Balıkesir,Burhaniye,17/02/24,Öğretmenler Mahallesi,kat irtifakı,ikinci el,240m2 / 180m2,4+2,2,21-25 arası,2,Güneş Enerjisi,Evet,Emlak Ofisi,Hayır
+4708,7.500.000,Balıkesir,Burhaniye,19/02/24,Pelitköy Mahallesi,kat irtifakı,sıfır,200m2 / 150m2,4+1,,1,2,Güneş Enerjisi,Evet,Emlak Ofisi,Evet
+4707,2.450.000,İstanbul (Avr),Fatih,18/02/24,Atikali Mahallesi,Kat irtifak,Betonarme,70,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4702,2.600.000,Balıkesir,Burhaniye,17/02/24,Cumhuriyet Mahallesi,kat mülkiyeti,ikinci el,100m2 / 90m2,2+1,1,3,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4712,2.100.000,Balıkesir,Burhaniye,19/02/24,Bahçelievler Mahallesi,kat mülkiyeti,sıfır,70m2,1+1,1,1,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+4589,15.000.000,İstanbul (Avr),Büyükçekmece,08/04/24,Fatıh Mahallesi,kat mülkiyet,sıfır,350,3+2,3,0,2,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4800,4.000.000,İstanbul (Avr),Beylikdüzü,16/04/24,Adnan Kahveci Mahallesi,KAT MÜLKİYET İSKANLI,SIFIR BETONERME,145,3+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4787,2.470.000,İstanbul (Avr),Beylikdüzü,16/04/24,Gürpınar Mahallesi,kat mülkiyet,sıfır,100,1+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4738,910.000,İstanbul (Avr),Esenyurt,16/04/24,Talatpaşa Mahallesi,kat mülkiyet,sıfır,85,Stüdyo,1,0,15,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4041,400.000,Manisa,Kırkağaç,10/10/23,Cinosman Mahallesi,SAHİBİNDEN,KAGİR,120,7+1,1,31 ve üzeri,2,,Evet,Sahibinden,Hayır
+4678,1.650.000,İstanbul (Avr),Esenyurt,16/04/24,Yeşilkent Mahallesi,kat mülkiyet,sıfır,100,1+1,1,0,20,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4679,1.255.000,İstanbul (Avr),Esenyurt,16/04/24,Yenikent Mahallesi,kat mülkiyet,sıfır,130,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4739,1.550.000,İstanbul (Avr),Beylikdüzü,16/04/24,Beylikdüzü OSB,kat mülkiyet,sıfır,110,1+1,1,0,30,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4887,3.750.000,İstanbul (Avr),Esenyurt,17/04/24,İncirtepe Mahallesi,Kar irtifakı,Betonarme,250,4+2,,11-15 arası,6,Doğalgaz (Kombi),Evet,Sahibinden,Hayır
+4680,1.500.000,İstanbul (Avr),Esenyurt,16/04/24,Yenikent Mahallesi,kat mülkiyet,sıfır,110,2+1,1,0,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4895,150.000,Tokat,Erbaa,18/04/24,Ziyagökalp Mahallesi,-,-,30,1+1,1,1,-,,,Sahibinden,Evet
+1980,4.350.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,MÜSTAKİL TAPU,İKİNCİ EL,210,3+1,2,21-25 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+4710,3.650.000,Balıkesir,Burhaniye,19/02/24,Bahçelievler Mahallesi,kat irtifakı,ikinci el,150m2,3+1,1,21-25 arası,2,,Evet,Emlak Ofisi,
+4677,2.500.000,İstanbul (Avr),Esenyurt,16/04/24,Talatpaşa Mahallesi,kat mülkiyet,sıfır,125,2+1,1,0,18,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+3169,3.950.000,İzmir,Karşıyaka,29/04/24,Yalı Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,130,3+1,2,11-15 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2542,7.750.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,180,4+1,2,0,15,Merkezi Sistem,Evet,Emlak Ofisi,Hayır
+3687,4.950.000,İzmir,Karşıyaka,29/04/24,Demirköprü Mahallesi,KAT MÜLKÜYETİ,İKİNCİ EL,200,3+1,2,5-10 arası,5,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+2541,6.000.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,180,4+1,2,0,15,Yerden Isıtma,Evet,Emlak Ofisi,Hayır
+4008,3.750.000,Balıkesir,Ayvalık,06/10/23,Altınova Mahallesi,-,-,120,3+1,2,26-30 arası,3,Klima,Hayır,Emlak Ofisi,Hayır
+4262,2.670.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+1958,4.250.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3458,3.650.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,130,3+1,1,4,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2828,2.800.000,Eskişehir,Tepebaşı,07/04/23,Yenibağlar Mahallesi,Kat mūlkiyetli,-,125,3+1,1,5-10 arası,4,Doğalgaz (Kombi),Hayır,Sahibinden,Hayır
+1445,1.950.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,3+1,1,31 ve üzeri,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Evet
+1173,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+1162,6.200.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,140,4+1,2,0,3,Doğalgaz (Kombi),Evet,Emlak Ofisi,Hayır
+2411,2.600.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3116,2.650.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,135,3+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+3193,2.550.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,100,2+1,1,31 ve üzeri,5,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Hayır
+1579,4.350.000,Ankara,Altındağ,29/04/24,Aydınlıkevler Mahallesi,kat mülkiyetli,var,145,3+1,1,31 ve üzeri,4,Doğalgaz (Kombi),Hayır,Emlak Ofisi,Evet
