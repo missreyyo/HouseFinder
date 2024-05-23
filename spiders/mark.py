@@ -122,16 +122,3 @@ class IlanSpider(scrapy.Spider):
         ilan_informations.pop('url', None)
 
         yield ilan_informations
-
-class CSVWriterPipeline:
-    def open_spider(self, spider):
-        self.csv_file = open('ilanlar2.csv', 'w', newline='', encoding='utf-8')
-        self.csv_writer = csv.DictWriter(self.csv_file, fieldnames=['İlan No', 'Fiyat', 'City', 'Town', 'Neighbourhood', 'Total Square of Meter', 'Number of room', 'Number of bathroom', 'Age of Structure', 'Floor of house', 'Heating', 'Credit Accepting'])
-        self.csv_writer.writeheader()
-
-    def close_spider(self, spider):
-        self.csv_file.close()
-
-    def process_item(self, item, spider):
-        self.csv_writer.writerow(item)
-        return item
