@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load the CSV file
-df = pd.read_csv(r'C:\Users\reyha\Desktop\ilkcsv.csv')
+df = pd.read_csv('ilkcsv.csv')
 
 # Exclude the 'City' column from X and Y axis dropdown options
 columns = [col for col in df.columns if col != 'City']
