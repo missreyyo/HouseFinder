@@ -78,7 +78,7 @@ model.fit(X_train, y_train)
 ```
 ## Evaluation and Conclusion
 ### First Project
-- **Linear Regression:** Simple and fast but low performance on complex datasets (MAPE: 3.42%).
+- **Linear Regression:** Simple and fast but low performance on complex datasets.
 - **XGBoost:** Higher accuracy and performance with hyperparameter optimization.
 
 ### Latest Project
