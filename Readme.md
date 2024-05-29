@@ -78,8 +78,8 @@ model.fit(X_train, y_train)
 ```
 ## Evaluation and Conclusion
 ### First Project
-- **Linear Regression:** Simple and fast but low performance on complex datasets.
-- **XGBoost:** Higher accuracy and performance with hyperparameter optimization.
+- **Linear Regression:** Simple and fast but low performance on complex datasets. MAPE: 18.71%
+- **XGBoost:** Higher accuracy and performance with hyperparameter optimization. MAPE: 7.19%
 
 ### Latest Project
 - **Random Forest:** Best performance with MAPE: 7.05%, MAE: 337,268, R-squared: 0.857.
